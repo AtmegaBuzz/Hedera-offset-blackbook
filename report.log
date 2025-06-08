@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  8 JUN 2025 12:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  8 JUN 2025 16:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -398,7 +398,42 @@ File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@expandcount=\count315
  (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
+))) (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+) (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
 File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
 File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
@@ -413,10 +448,10 @@ File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: tikzlibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.code.tex
 File: pgflibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.symbols.code.tex
+))
+(/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.symbols.code.tex
 File: tikzlibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
-
-(/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symbols.code.tex
+ (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symbols.code.tex
 File: pgflibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )) (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.arrows.code.tex
 File: tikzlibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
@@ -699,6 +734,12 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \enit@inbox=\box106
 \enit@count@id=\count344
 \enitdp@description=\count345
+) (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 58.
+ (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count346
@@ -707,24 +748,24 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 No file report.aux.
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -732,16 +773,17 @@ LaTeX Font Info:    ... okay on input line 53.
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 43.36243pt
 * modes: 
-* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* h-part:(L,W,R)=(79.49744pt, 395.15057pt, 79.49744pt)
+* v-part:(T,H,B)=(79.49744pt, 686.05197pt, 79.49744pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=452.9679pt
-* \textheight=700.50687pt
-* \oddsidemargin=0.0pt
-* \evensidemargin=0.0pt
-* \topmargin=-31.8738pt
+* \textwidth=395.15057pt
+* \textheight=686.05197pt
+* \oddsidemargin=50.58987pt
+* \evensidemargin=7.22745pt
+* \topmargin=-24.64635pt
 * \headheight=12.0pt
 * \headsep=19.8738pt
 * \topskip=12.0pt
@@ -781,37 +823,64 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 53.
+Package hyperref Info: Link coloring OFF on input line 58.
 \@outlinefile=\write4
 \openout4 = `report.out'.
 
 <Logo-1606151851.jpg, id=7, 1003.75pt x 602.25pt>
 File: Logo-1606151851.jpg Graphic file (type jpg)
 <use Logo-1606151851.jpg>
-Package pdftex.def Info: Logo-1606151851.jpg  used on input line 80.
+Package pdftex.def Info: Logo-1606151851.jpg  used on input line 85.
 (pdftex.def)             Requested size: 100.0pt x 59.99878pt.
 
 
 [1
 
-{/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map} <./Logo-1606151851.jpg>]
+{/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}{/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/base/8r.enc} <./Logo-1606151851.jpg>]
 File: Logo-1606151851.jpg Graphic file (type jpg)
 <use Logo-1606151851.jpg>
-Package pdftex.def Info: Logo-1606151851.jpg  used on input line 100.
+Package pdftex.def Info: Logo-1606151851.jpg  used on input line 105.
 (pdftex.def)             Requested size: 100.0pt x 59.99878pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 134--136
 
-LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 113.
+ []
 
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 140.
+(/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 140.
+ (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 140.
+ (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 140.
+ (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 140.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 140.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 140.
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--131
-
+Overfull \hbox (23.86366pt too wide) in paragraph at lines 140--147
+[][]
  []
 
 
 
 [2]
+Overfull \hbox (23.86366pt too wide) in paragraph at lines 195--200
+[][] 
+ []
+
+
 
 [3]
 
@@ -819,7 +888,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 129--131
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.215 {  \newpage
+l.217 {  \newpage
                   {\bfseries \fontsize{14}{12} \selectfont \centerline{Ackno... [1
 
 ]
@@ -828,7 +897,7 @@ l.215 {  \newpage
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.244 \tableofcontents
+l.249 \tableofcontents
                        [2]
 No file report.toc.
 \tf@toc=\write5
@@ -840,7 +909,7 @@ No file report.toc.
 pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.245 \listoffigures
+l.250 \listoffigures
                      [3
 
 ]
@@ -869,7 +938,7 @@ Chapter 1.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.259 \chapter{Synopsis}
+l.264 \chapter{Synopsis}
                          [1
 
 
@@ -879,537 +948,132 @@ l.259 \chapter{Synopsis}
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.293 \newpage
+l.298 \newpage
                [2]
-Overfull \hbox (8.62593pt too wide) in paragraph at lines 312--312
-|[]\OT1/cmr/bx/n/17.28 Relevant math-e-mat-ics as-so-ci-ated with the Project| 
- []
-
-
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 305.
+ (/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.317 \item O
-             utput: Tokenized carbon credits as NFTs on Hedera blockchain, a... [3{/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+l.312     \item T
+                 o implement real-time monitoring systems using IoT sensors ... [3]
+Overfull \hbox (2.99455pt too wide) in paragraph at lines 317--317
+|[]\OT1/ptm/b/n/17.28 Relevant math-e-mat-ics as-so-ci-ated with the Project| 
+ []
+
+
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.342 
+l.335 
        [4]
+Overfull \hbox (3.35275pt too wide) in paragraph at lines 340--343
+[]\OT1/ptm/b/n/12 Paper Name: \OT1/ptm/m/it/12 Blockchain-Powered NFTs: A Paradigm Shift in Car-bon Credit
+ []
+
+
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.362 \end{itemize}
-                    [5]
-Overfull \hbox (1.90543pt too wide) in paragraph at lines 375--377
-[]\OT1/cmr/bx/n/12 Phase 3: Blockchain In-te-gra-tion and Smart Con-tract De-vel-op-ment (Week
+l.347 
+       [5]
+Overfull \hbox (4.79279pt too wide) in paragraph at lines 356--359
+\OT1/ptm/b/n/12 Abstract: \OT1/ptm/m/n/12 This study ex-plores to-k-eniza-tion of car-bon cred-its us-ing blockchain
  []
 
 
 
 [6]
-Chapter 2.
-
-
-[7
-
-]
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:407: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.407 \item S
-             mart contract automation for carbon credits
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 407
-[][]
+Overfull \hbox (5.7652pt too wide) in paragraph at lines 380--382
+[]\OT1/ptm/b/n/12 Phase 3: Blockchain In-te-gra-tion and Smart Con-tract De-vel-op-ment (Week
  []
 
 
-/Users/swapnilshinde/Desktop/blackbook/report.tex:408: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.408 \item D
-             ecentralized carbon marketplace infrastructure
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 408
-[][]
+[7]
+Overfull \hbox (6.47255pt too wide) in paragraph at lines 392--394
+\OT1/ptm/m/n/12 Prepare com-pre-hen-sive tech-ni-cal doc-u-men-ta-tion, con-duct sys-tem per-for-mance
  []
-
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:409: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.409 \item R
-             eal-time environmental data verification systems
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 409
-[][]
- []
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:410: Undefined control sequence.
-\enit@endenumerate ->\enit@after 
-                                 \endlist \ifx \enit@series \relax \else \if...
-l.410 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:410: Undefined control sequence.
-\enit@endenumerate ...\else \ifnum \enit@resuming 
-                                                  =\@ne \enit@setresumekeys ...
-l.410 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:410: Missing number, treated as zero.
-<to be read again> 
-                   =
-l.410 \end{enumerate}
-                     
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:410: Undefined control sequence.
-\enit@setresumekeys ...xpandafter {\enit@savekeys 
-                                                  }\xdef \enit@afterlist {#2...
-l.410 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:410: Undefined control sequence.
-\enit@setresumekeys ...it@toks }\ifnum \enit@type 
-                                                  =\z@ #3\def \enit@noexcs {...
-l.410 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:410: Missing number, treated as zero.
-<to be read again> 
-                   =
-l.410 \end{enumerate}
-                     
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:410: Undefined control sequence.
-<argument> enit@resume@series@\enit@series 
-                                           
-l.410 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:410: Undefined control sequence.
-\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
-                                                  \endcsname \the \csname c@...
-l.410 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:410: Undefined control sequence.
-\enit@setresumekeys ...e \the \csname c@\@listctr 
-                                                  \endcsname }\fi }
-l.410 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:410: You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.410 \end{enumerate}
-                     
-I'm forgetting what you said and using zero instead.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:410: Undefined control sequence.
-\enit@endenumerate ...t \fi \ifnum \enit@resuming 
-                                                  =\thr@@ \enit@setresumekey...
-l.410 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:410: Missing number, treated as zero.
-<to be read again> 
-                   =
-l.410 \end{enumerate}
-                     
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:410: Undefined control sequence.
-\enit@setresumekeys ...xpandafter {\enit@savekeys 
-                                                  }\xdef \enit@afterlist {#2...
-l.410 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:410: Undefined control sequence.
-\enit@setresumekeys ...it@toks }\ifnum \enit@type 
-                                                  =\z@ #3\def \enit@noexcs {...
-l.410 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:410: Missing number, treated as zero.
-<to be read again> 
-                   =
-l.410 \end{enumerate}
-                     
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:410: Undefined control sequence.
-\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
-                                                  \endcsname \the \csname c@...
-l.410 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:410: Undefined control sequence.
-\enit@setresumekeys ...e \the \csname c@\@listctr 
-                                                  \endcsname }\fi }
-l.410 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:410: You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.410 \end{enumerate}
-                     
-I'm forgetting what you said and using zero instead.
-
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:410: LaTeX Error: \begin{document} ended by \end{enumerate}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.410 \end{enumerate}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:410: Missing } inserted.
-<inserted text> 
-                }
-l.410 \end{enumerate}
-                     
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:410: Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.410 \end{enumerate}
-                     
-Things are pretty mixed up, but I think the worst is over.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:411: Undefined control sequence.
-\enit@endenumerate ->\enit@after 
-                                 \endlist \ifx \enit@series \relax \else \if...
-l.411 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:411: Undefined control sequence.
-\enit@endenumerate ...\else \ifnum \enit@resuming 
-                                                  =\@ne \enit@setresumekeys ...
-l.411 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:411: Missing number, treated as zero.
-<to be read again> 
-                   =
-l.411 \end{enumerate}
-                     
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:411: Undefined control sequence.
-\enit@setresumekeys ...xpandafter {\enit@savekeys 
-                                                  }\xdef \enit@afterlist {#2...
-l.411 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:411: Undefined control sequence.
-\enit@setresumekeys ...it@toks }\ifnum \enit@type 
-                                                  =\z@ #3\def \enit@noexcs {...
-l.411 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:411: Missing number, treated as zero.
-<to be read again> 
-                   =
-l.411 \end{enumerate}
-                     
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:411: Undefined control sequence.
-<argument> enit@resume@series@\enit@series 
-                                           
-l.411 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:411: Undefined control sequence.
-\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
-                                                  \endcsname \the \csname c@...
-l.411 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:411: Undefined control sequence.
-\enit@setresumekeys ...e \the \csname c@\@listctr 
-                                                  \endcsname }\fi }
-l.411 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:411: You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.411 \end{enumerate}
-                     
-I'm forgetting what you said and using zero instead.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:411: Undefined control sequence.
-\enit@endenumerate ...t \fi \ifnum \enit@resuming 
-                                                  =\thr@@ \enit@setresumekey...
-l.411 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:411: Missing number, treated as zero.
-<to be read again> 
-                   =
-l.411 \end{enumerate}
-                     
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:411: Undefined control sequence.
-\enit@setresumekeys ...xpandafter {\enit@savekeys 
-                                                  }\xdef \enit@afterlist {#2...
-l.411 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:411: Undefined control sequence.
-\enit@setresumekeys ...it@toks }\ifnum \enit@type 
-                                                  =\z@ #3\def \enit@noexcs {...
-l.411 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:411: Missing number, treated as zero.
-<to be read again> 
-                   =
-l.411 \end{enumerate}
-                     
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:411: Undefined control sequence.
-\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
-                                                  \endcsname \the \csname c@...
-l.411 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:411: Undefined control sequence.
-\enit@setresumekeys ...e \the \csname c@\@listctr 
-                                                  \endcsname }\fi }
-l.411 \end{enumerate}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:411: You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.411 \end{enumerate}
-                     
-I'm forgetting what you said and using zero instead.
-
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:411: LaTeX Error: \begin{document} ended by \end{enumerate}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.411 \end{enumerate}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-/Users/swapnilshinde/Desktop/blackbook/report.tex:411: Extra \endgroup.
-\end  ...end#1\endcsname \@checkend {#1}\endgroup 
-                                                  \UseHook {env/#1/after}\if...
-l.411 \end{enumerate}
-                     
-Things are pretty mixed up, but I think the worst is over.
 
 
 
 [8]
-Chapter 3.
+Chapter 2.
 
 
 [9
 
 ]
-Overfull \hbox (23.92438pt too wide) in paragraph at lines 429--430
-[]\OT1/cmr/bx/n/12 A Blockchain-Based Car-bon Credit Ecosys-tem: \OT1/cmr/m/n/12 This study pro-poses a blockchain-
+
+/Users/swapnilshinde/Desktop/blackbook/report.tex:412: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.412 \item S
+             mart contract automation for carbon credits
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 412
+[][]
+ []
+
+
+/Users/swapnilshinde/Desktop/blackbook/report.tex:413: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.413 \item D
+             ecentralized carbon marketplace infrastructure
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 413
+[][]
+ []
+
+
+/Users/swapnilshinde/Desktop/blackbook/report.tex:414: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.414 \item R
+             eal-time environmental data verification systems
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 414
+[][]
  []
 
 
 
 [10]
-Chapter 4.
+Chapter 3.
 
 
 [11
 
 ]
-Overfull \hbox (4.62042pt too wide) in paragraph at lines 465--466
-[]\OT1/cmr/m/n/12 Platform Lim-i-ta-tions: The ap-pli-ca-tion is de-vel-oped us-ing cross-platform frame-
+Overfull \hbox (20.04405pt too wide) in paragraph at lines 425--426
+[]\OT1/ptm/m/n/12 The mo-ti-va-tion be-hind "Trust-Based Car-bon Off-set-ting us-ing IoT and Blockchain
  []
 
 
@@ -1417,1554 +1081,1698 @@ Overfull \hbox (4.62042pt too wide) in paragraph at lines 465--466
 [12]
 
 [13]
-Overfull \hbox (264.43791pt too wide) in paragraph at lines 524--539
- [] 
+Chapter 4.
+
+
+[14
+
+]
+
+[15]
+Overfull \hbox (2.60982pt too wide) in paragraph at lines 468--469
+[]\OT1/ptm/m/n/12 Platform Lim-i-ta-tions: The ap-pli-ca-tion is de-vel-oped us-ing cross-platform
  []
 
 
 
-[14]
+[16]
+Overfull \hbox (2.6688pt too wide) in paragraph at lines 478--479
+\OT1/ptm/m/n/12 and in-ter-na-tional reg-u-la-tions con-cern-ing blockchain us-age, car-bon credit trad-
+ []
 
-[15]
-Chapter 5.
 
-
-[16
-
-]
-Overfull \hbox (2.90607pt too wide) in paragraph at lines 570--571
-[]\OT1/cmr/bx/n/12 Software Tools: \OT1/cmr/m/n/12 Hed-era blockchain net-work fees, de-vel-op-ment tools li-censes (Type-
+Overfull \hbox (0.6445pt too wide) in paragraph at lines 483--483
+|[]\OT1/ptm/b/n/17.28 Methodologies of Prob-lem Solv-ing and Ef-fi-ciency
  []
 
 
 
 [17]
-Underfull \hbox (badness 6461) in paragraph at lines 641--641
-[]|\OT1/cmr/m/n/12 Hedera blockchain net-work
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 641--641
-[]|\OT1/cmr/m/n/12 Regulatory com-pli-ance
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 641--641
-\OT1/cmr/m/n/12 changes af-fect-ing car-bon
- []
-
-
 
 [18]
+Underfull \hbox (badness 1210) in paragraph at lines 542--542
+[]|\OT1/ptm/m/n/12 Supports blockchain node op-er-a-
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 542--542
+\OT1/ptm/m/n/12 tion and con-cur-rent IoT con-nec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 542--542
+[]|\OT1/ptm/m/n/12 High-speed con-nec-tiv-ity for
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 542--542
+\OT1/ptm/m/n/12 blockchain and IoT com-mu-ni-ca-
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 542--542
+[]|\OT1/ptm/m/n/12 Real-time en-ergy and emis-sions
+ []
+
+
 
 [19]
+Overfull \hbox (4.4087pt too wide) in paragraph at lines 554--555
+[]\OT1/ptm/m/n/12 Programming Lan-guages: Type-Script, JavaScript (Node.js), C++ for firmware 
+ []
+
+
 
 [20]
-
-[21]
-<tasknetwork.png, id=213, 684.5575pt x 402.50375pt>
-File: tasknetwork.png Graphic file (type png)
-<use tasknetwork.png>
-Package pdftex.def Info: tasknetwork.png  used on input line 758.
-(pdftex.def)             Requested size: 362.37569pt x 213.07416pt.
+Chapter 5.
 
 
-[22 <./tasknetwork.png>]
+[21
+
+]
+
+[22]
+Overfull \hbox (15.19601pt too wide) in paragraph at lines 598--599
+\OT1/ptm/m/n/12 con-nec-tiv-ity for IoT de-vices, and se-cure com-mu-ni-ca-tion chan-nels for blockchain
+ []
+
+
+Overfull \hbox (7.35974pt too wide) in paragraph at lines 607--609
+[]\OT1/ptm/m/n/12 Are end-users en-thu-si-as-ti-cally com-mit-ted to the project and the sys-tem/product
+ []
+
+
 
 [23]
-Chapter 6.
+Underfull \hbox (badness 10000) in paragraph at lines 646--646
+[]|\OT1/ptm/m/n/12 Hedera blockchain
+ []
 
 
-[24
+Underfull \hbox (badness 10000) in paragraph at lines 646--646
+\OT1/ptm/m/n/12 net-work con-ges-tion
+ []
 
-]
 
-[25
+Underfull \hbox (badness 5924) in paragraph at lines 646--646
+\OT1/ptm/m/n/12 af-fect-ing trans-ac-tion
+ []
 
-]
+
+Underfull \hbox (badness 4048) in paragraph at lines 646--646
+[]|\OT1/ptm/m/n/12 Smart con-tract vul-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 646--646
+[]|\OT1/ptm/m/n/12 Regulatory com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 646--646
+\OT1/ptm/m/n/12 pli-ance changes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 646--646
+\OT1/ptm/m/n/12 af-fect-ing car-bon
+ []
+
+
+
+[24]
+
+[25]
 
 [26]
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-[]|\OT1/cmr/m/n/12 IoT Data
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 Col-lec-tion
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-[]|\OT1/cmr/m/n/12 IoT sen-
- []
-
-
-Underfull \hbox (badness 5091) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 sors cap-ture
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 real-time
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 emis-sions
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 and en-ergy
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 pro-duc-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 tion data,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 trans-mit-ting
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 se-curely to
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 Hed-era Off-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-[]|\OT1/cmr/m/n/12 IoT de-vices
- []
-
-
-Underfull \hbox (badness 4072) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 are prop-erly
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 con-fig-ured
- []
-
-
-Underfull \hbox (badness 2547) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 and net-work
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 con-nec-tiv-ity
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-[]|\OT1/cmr/m/n/12 Carbon
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 Credit To-k-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-[]|\OT1/cmr/m/n/12 Smart con-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 ver-i-fied IoT
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 data and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 au-to-mat-i-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 cally mint
- []
-
-
-Underfull \hbox (badness 1776) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 car-bon cred-
- []
-
-
-Underfull \hbox (badness 1210) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 its as NFTs
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 on Hed-era
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-[]|\OT1/cmr/m/n/12 Data val-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 i-da-tion
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 al-go-rithms
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 con-firm
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 emis-sion
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 re-duc-tion
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-[]|\OT1/cmr/m/n/12 Marketplace
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 pur-chase,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 and trade
- []
-
-
-Underfull \hbox (badness 1776) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 car-bon cred-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 its through
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 the de-cen-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 tral-ized
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 mar-ket-place
- []
-
-
-Underfull \hbox (badness 2680) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 Pack wal-lets
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 are con-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 nected and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-\OT1/cmr/m/n/12 have suf-fi-
- []
-
+<tasknetwork.png, id=230, 684.5575pt x 402.50375pt>
+File: tasknetwork.png Graphic file (type png)
+<use tasknetwork.png>
+Package pdftex.def Info: tasknetwork.png  used on input line 763.
+(pdftex.def)             Requested size: 316.12166pt x 185.8787pt.
 
 
 [27]
 
-[28]
-<usecase-diagram.png, id=260, 1225.57875pt x 311.1625pt>
-File: usecase-diagram.png Graphic file (type png)
-<use usecase-diagram.png>
-Package pdftex.def Info: usecase-diagram.png  used on input line 896.
-(pdftex.def)             Requested size: 452.9679pt x 115.00487pt.
+[28 <./tasknetwork.png>]
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 896--897
- [][] 
- []
+[29]
+Chapter 6.
 
 
-
-[29 <./usecase-diagram.png>]
-<erdiagram.png, id=273, 662.475pt x 648.4225pt>
-File: erdiagram.png Graphic file (type png)
-<use erdiagram.png>
-Package pdftex.def Info: erdiagram.png  used on input line 913.
-(pdftex.def)             Requested size: 452.9679pt x 443.35542pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 913--914
- [][] 
- []
-
-
-
-[30 <./erdiagram.png>]
-<dataflow-diagram.png, id=280, 696.6025pt x 939.51pt>
-File: dataflow-diagram.png Graphic file (type png)
-<use dataflow-diagram.png>
-Package pdftex.def Info: dataflow-diagram.png  used on input line 929.
-(pdftex.def)             Requested size: 452.9679pt x 610.91797pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 929--930
- [][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 951--952
-
- []
-
-
-
-[31]
-
-[32 <./dataflow-diagram.png>]
-<state-diagram.png, id=294, 999.735pt x 42.1575pt>
-File: state-diagram.png Graphic file (type png)
-<use state-diagram.png>
-Package pdftex.def Info: state-diagram.png  used on input line 955.
-(pdftex.def)             Requested size: 452.9679pt x 19.10127pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 955--956
- [][] 
- []
-
-
-
-[33 <./state-diagram.png>]
-Chapter 7.
-
-
-[34
+[30
 
 ]
-<architecture.png, id=307, 4079.24pt x 2890.8pt>
-File: architecture.png Graphic file (type png)
-<use architecture.png>
-Package pdftex.def Info: architecture.png  used on input line 974.
-(pdftex.def)             Requested size: 452.9679pt x 320.98846pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 974--975
- [][] 
+[31
+
+]
+
+[32]
+Overfull \hbox (17.6452pt too wide) in paragraph at lines 850--851
+[]\OT1/ptm/b/n/12 Responsibilities: \OT1/ptm/m/n/12 Man-ages IoT de-vice con-fig-u-ra-tions, mon-i-tors blockchain
  []
 
 
+Overfull \hbox (1.57768pt too wide) in paragraph at lines 857--858
+[]\OT1/ptm/b/n/12 Permissions: \OT1/ptm/m/n/12 Ac-cess to IoT mon-i-tor-ing dash-boards, car-bon credit mint-
+ []
+
+
+
+[33]
+Overfull \hbox (1.85248pt too wide) in paragraph at lines 889--889
+[]|\OT1/ptm/m/n/12 Description| 
+ []
+
+
+Overfull \hbox (8.53642pt too wide) in paragraph at lines 889--889
+[]|\OT1/ptm/m/n/12 Assumptions| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+[]|\OT1/ptm/m/n/12 IoT Data
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 Col-lec-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+[]|\OT1/ptm/m/n/12 IoT sen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 sors
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 cap-ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 real-time
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 emis-sions
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 pro-duc-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 mit-ting
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 se-curely
+ []
+
+
+Underfull \hbox (badness 6284) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 to Hed-era
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 Off-set
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+[]|\OT1/ptm/m/n/12 IoT de-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 vices are
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 prop-erly
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 con-fig-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 ured and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 net-work
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 con-nec-tiv-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+[]|\OT1/ptm/m/n/12 Carbon
+ []
+
+
+Underfull \hbox (badness 1859) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 Credit To-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+[]|\OT1/ptm/m/n/12 Smart
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 con-tracts
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 pro-cess
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 ver-i-fied
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 IoT data
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 and au-to-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 mat-i-cally
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 mint car-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 as NFTs
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 on Hed-era
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+[]|\OT1/ptm/m/n/12 Data val-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 i-da-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 al-go-rithms
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 con-firm
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 emis-sion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 re-duc-tion
+ []
+
+
+Overfull \hbox (5.71645pt too wide) in paragraph at lines 889--889
+[]|\OT1/ptm/m/n/12 Marketplace
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+[]|\OT1/ptm/m/n/12 Users
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 browse,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 pur-chase,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 and trade
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 car-bon
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 cred-its
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 through
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 the de-cen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 tral-ized
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 mar-ket-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 place
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+[]|\OT1/ptm/m/n/12 Hedera
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 Hash-Pack
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 con-nected
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 and have
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--889
+\OT1/ptm/m/n/12 suf-fi-cient
+ []
+
+
+
+[34]
 
 [35]
+<usecase-diagram.png, id=288, 1225.57875pt x 311.1625pt>
+File: usecase-diagram.png Graphic file (type png)
+<use usecase-diagram.png>
+Package pdftex.def Info: usecase-diagram.png  used on input line 901.
+(pdftex.def)             Requested size: 395.15057pt x 100.3242pt.
 
-[36 <./architecture.png>]
-<class-diagram.png, id=324, 435.6275pt x 876.27374pt>
-File: class-diagram.png Graphic file (type png)
-<use class-diagram.png>
-Package pdftex.def Info: class-diagram.png  used on input line 1000.
-(pdftex.def)             Requested size: 170.71652pt x 343.39pt.
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 901--902
+ [][] 
+ []
 
 
-[37 <./class-diagram.png>]
-<sequence-diagram.png, id=335, 981.6675pt x 499.8675pt>
-File: sequence-diagram.png Graphic file (type png)
-<use sequence-diagram.png>
-Package pdftex.def Info: sequence-diagram.png  used on input line 1011.
-(pdftex.def)             Requested size: 452.9679pt x 230.65118pt.
+Overfull \hbox (3.22198pt too wide) in paragraph at lines 912--913
+\OT1/ptm/m/n/12 sion re-duc-tion data, meta-data, and own-er-ship in-for-ma-tion on the Hed-era blockchain.
+ []
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1011--1012
+
+
+[36 <./usecase-diagram.png>]
+
+[37]
+<erdiagram.png, id=303, 662.475pt x 648.4225pt>
+File: erdiagram.png Graphic file (type png)
+<use erdiagram.png>
+Package pdftex.def Info: erdiagram.png  used on input line 918.
+(pdftex.def)             Requested size: 395.15057pt x 386.77095pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 918--919
  [][] 
  []
 
 
 
-[38 <./sequence-diagram.png>]
-Chapter 8.
+[38 <./erdiagram.png>]
+<dataflow-diagram.png, id=310, 696.6025pt x 939.51pt>
+File: dataflow-diagram.png Graphic file (type png)
+<use dataflow-diagram.png>
+Package pdftex.def Info: dataflow-diagram.png  used on input line 934.
+(pdftex.def)             Requested size: 395.15057pt x 532.94583pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 934--935
+ [][] 
+ []
 
 
-[39
+Overfull \hbox (21.10008pt too wide) in paragraph at lines 948--949
+[]\OT1/ptm/b/n/12 Reliability Re-quire-ments: \OT1/ptm/m/n/12 The sys-tem en-sures data in-tegrity through blockchain
+ []
 
-]
 
-[40]
 
-[41]
-Chapter 9.
+[39]
+
+[40 <./dataflow-diagram.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 956--957
+
+ []
+
+<state-diagram.png, id=324, 999.735pt x 42.1575pt>
+File: state-diagram.png Graphic file (type png)
+<use state-diagram.png>
+Package pdftex.def Info: state-diagram.png  used on input line 960.
+(pdftex.def)             Requested size: 395.15057pt x 16.66263pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 960--961
+ [][] 
+ []
+
+
+
+[41 <./state-diagram.png>]
+Chapter 7.
 
 
 [42
 
 ]
+Overfull \hbox (0.62935pt too wide) in paragraph at lines 973--974
+\OT1/ptm/m/n/12 Tas-mota firmware for real-time data col-lec-tion, Hed-era Off-set Nodes for blockchain
+ []
+
+<architecture.png, id=338, 4079.24pt x 2890.8pt>
+File: architecture.png Graphic file (type png)
+<use architecture.png>
+Package pdftex.def Info: architecture.png  used on input line 979.
+(pdftex.def)             Requested size: 395.15057pt x 280.01027pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 979--980
+ [][] 
+ []
+
+
 
 [43]
-Underfull \hbox (badness 10000) in paragraph at lines 1142--1142
-[]|\OT1/cmr/bx/n/12 Test
+Overfull \hbox (2.90906pt too wide) in paragraph at lines 995--996
+\OT1/ptm/m/n/12 Temporary data struc-tures han-dle real-time IoT sen-sor read-ings, pend-ing blockchain
  []
 
 
-Underfull \hbox (badness 5175) in paragraph at lines 1142--1142
-[]|\OT1/cmr/bx/n/12 Test Case De-
+
+[44 <./architecture.png>]
+<class-diagram.png, id=355, 435.6275pt x 876.27374pt>
+File: class-diagram.png Graphic file (type png)
+<use class-diagram.png>
+Package pdftex.def Info: class-diagram.png  used on input line 1005.
+(pdftex.def)             Requested size: 170.71652pt x 343.39pt.
+
+
+[45 <./class-diagram.png>]
+<sequence-diagram.png, id=365, 981.6675pt x 499.8675pt>
+File: sequence-diagram.png Graphic file (type png)
+<use sequence-diagram.png>
+Package pdftex.def Info: sequence-diagram.png  used on input line 1016.
+(pdftex.def)             Requested size: 395.15057pt x 201.2096pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1016--1017
+ [][] 
  []
 
 
-Underfull \hbox (badness 2573) in paragraph at lines 1142--1142
-[]|\OT1/cmr/bx/n/12 Actual Re-
+
+[46 <./sequence-diagram.png>]
+Chapter 8.
+
+
+[47
+
+]
+
+[48]
+
+[49]
+
+[50]
+Chapter 9.
+
+
+[51
+
+]
+Overfull \hbox (2.11691pt too wide) in paragraph at lines 1121--1122
+\OT1/ptm/m/n/12 time IoT mon-i-tor-ing, au-to-mated car-bon credit gen-er-a-tion, mar-ket-place trad-ing func-
  []
 
 
-Overfull \hbox (55.55197pt too wide) in alignment at lines 1140--1144
+
+[52]
+Overfull \hbox (53.61833pt too wide) in alignment at lines 1145--1149
  [] [] [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1147--1147
-[]|\OT1/cmr/bx/n/12 Test
- []
-
-
-Underfull \hbox (badness 5175) in paragraph at lines 1147--1147
-[]|\OT1/cmr/bx/n/12 Test Case De-
- []
-
-
-Underfull \hbox (badness 2573) in paragraph at lines 1147--1147
-[]|\OT1/cmr/bx/n/12 Actual Re-
- []
-
-
-Overfull \hbox (55.55197pt too wide) in alignment at lines 1144--1149
+Overfull \hbox (53.61833pt too wide) in alignment at lines 1149--1154
  [] [] [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1151--1151
-[]|\OT1/cmr/m/n/12 IOT-
+Underfull \hbox (badness 10000) in paragraph at lines 1156--1156
+[]|\OT1/ptm/m/n/10.95 IOT-
  []
 
 
-Underfull \hbox (badness 2970) in paragraph at lines 1151--1151
-[]|\OT1/cmr/m/n/12 Data col-lected
+Underfull \hbox (badness 1189) in paragraph at lines 1156--1156
+\OT1/ptm/m/n/10.95 ev-ery 30 sec-
  []
 
 
-Underfull \hbox (badness 4556) in paragraph at lines 1151--1151
-\OT1/cmr/m/n/12 ev-ery 30 sec-
+Underfull \hbox (badness 1189) in paragraph at lines 1156--1156
+\OT1/ptm/m/n/10.95 ev-ery 30 sec-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1151--1151
-[]|\OT1/cmr/m/n/12 Data col-
+Underfull \hbox (badness 7722) in paragraph at lines 1156--1157
+[]|\OT1/ptm/m/n/10.95 Working as
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1151--1151
-\OT1/cmr/m/n/12 lected ev-ery
+Underfull \hbox (badness 10000) in paragraph at lines 1158--1158
+[]|\OT1/ptm/m/n/10.95 IOT-
  []
 
 
-Underfull \hbox (badness 5862) in paragraph at lines 1151--1152
-[]|\OT1/cmr/m/n/12 Working as
+Underfull \hbox (badness 10000) in paragraph at lines 1158--1158
+[]|\OT1/ptm/m/n/10.95 Successful
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1154--1154
-[]|\OT1/cmr/m/n/12 IOT-
+Underfull \hbox (badness 10000) in paragraph at lines 1158--1158
+\OT1/ptm/m/n/10.95 con-nec-tion
  []
 
 
-Underfull \hbox (badness 6300) in paragraph at lines 1154--1154
-\OT1/cmr/m/n/12 nec-tion es-tab-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1154--1154
-[]|\OT1/cmr/m/n/12 Connection
- []
-
-
-Underfull \hbox (badness 6792) in paragraph at lines 1154--1155
-[]|\OT1/cmr/m/n/12 Stable con-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1157--1157
-[]|\OT1/cmr/m/n/12 IOT-
- []
-
-
-Underfull \hbox (badness 3179) in paragraph at lines 1157--1157
-[]|\OT1/cmr/m/n/12 Data trans-mis-sion
- []
-
-
-Underfull \hbox (badness 8170) in paragraph at lines 1157--1157
-\OT1/cmr/m/n/12 ted within 5
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1157--1157
-[]|\OT1/cmr/m/n/12 Data trans-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1157--1158
-[]|\OT1/cmr/m/n/12 Performance
+Underfull \hbox (badness 10000) in paragraph at lines 1158--1159
+[]|\OT1/ptm/m/n/10.95 Stable
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1160--1160
-[]|\OT1/cmr/m/n/12 IOT-
+[]|\OT1/ptm/m/n/10.95 IOT-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1160--1160
-[]|\OT1/cmr/m/n/12 Only au-tho-
+Underfull \hbox (badness 6428) in paragraph at lines 1160--1160
+[]|\OT1/ptm/m/n/10.95 Data trans-mis-sion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1160--1160
-\OT1/cmr/m/n/12 rized de-vices
+Underfull \hbox (badness 6364) in paragraph at lines 1160--1160
+\OT1/ptm/m/n/10.95 ted within 5
  []
 
 
-Overfull \hbox (5.89093pt too wide) in paragraph at lines 1160--1160
-[]|\OT1/cmr/m/n/12 Authentication
+Underfull \hbox (badness 10000) in paragraph at lines 1160--1161
+[]|\OT1/ptm/m/n/10.95 Performance
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1163--1163
-[]|\OT1/cmr/m/n/12 IOT-
+Underfull \hbox (badness 10000) in paragraph at lines 1162--1162
+[]|\OT1/ptm/m/n/10.95 IOT-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1163--1163
-[]|\OT1/cmr/m/n/12 Network failover
+Underfull \hbox (badness 10000) in paragraph at lines 1162--1162
+[]|\OT1/ptm/m/n/10.95 Only au-tho-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1163--1163
-[]|\OT1/cmr/m/n/12 Switch to
+Underfull \hbox (badness 10000) in paragraph at lines 1162--1162
+\OT1/ptm/m/n/10.95 rized de-vices
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1163--1163
-\OT1/cmr/m/n/12 backup net-
+Underfull \hbox (badness 10000) in paragraph at lines 1162--1162
+[]|\OT1/ptm/m/n/10.95 Authentication
  []
 
 
-Underfull \hbox (badness 7186) in paragraph at lines 1163--1163
-\OT1/cmr/m/n/12 pleted in 2
+Underfull \hbox (badness 10000) in paragraph at lines 1164--1164
+[]|\OT1/ptm/m/n/10.95 IOT-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1163--1164
-[]|\OT1/cmr/m/n/12 Redundancy
+Underfull \hbox (badness 10000) in paragraph at lines 1164--1164
+[]|\OT1/ptm/m/n/10.95 Network failover
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1166--1166
-[]|\OT1/cmr/m/n/12 IOT-
+Underfull \hbox (badness 10000) in paragraph at lines 1164--1164
+[]|\OT1/ptm/m/n/10.95 Switch to
  []
 
 
-Underfull \hbox (badness 5563) in paragraph at lines 1166--1166
-[]|\OT1/cmr/m/n/12 Sensor cal-i-bra-tion
+Underfull \hbox (badness 10000) in paragraph at lines 1164--1164
+\OT1/ptm/m/n/10.95 backup net-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1166--1166
-[]|\TS1/cmr/m/n/12 ±\OT1/cmr/m/n/12 0.1\TS1/cmr/m/n/12 °\OT1/cmr/m/n/12 C ac-
+Underfull \hbox (badness 1668) in paragraph at lines 1164--1164
+[]|\OT1/ptm/m/n/10.95 Failover com-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1166--1166
-\OT1/cmr/m/n/12 cu-racy main-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1166--1166
-[]|\TS1/cmr/m/n/12 ±\OT1/cmr/m/n/12 0.08\TS1/cmr/m/n/12 °\OT1/cmr/m/n/12 C
+Underfull \hbox (badness 10000) in paragraph at lines 1164--1165
+[]|\OT1/ptm/m/n/10.95 Redundancy
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1166--1166
-\OT1/cmr/m/n/12 ac-cu-racy
+[]|\OT1/ptm/m/n/10.95 IOT-
  []
 
 
-Underfull \hbox (badness 7685) in paragraph at lines 1166--1167
-[]|\OT1/cmr/m/n/12 High pre-ci-
+Underfull \hbox (badness 4819) in paragraph at lines 1166--1166
+[]|\OT1/ptm/m/n/10.95 Sensor cal-i-bra-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1169--1169
-[]|\OT1/cmr/m/n/12 IOT-
+Underfull \hbox (badness 10000) in paragraph at lines 1166--1166
+[]|\TS1/ptm/m/n/10.95 ±\OT1/ptm/m/n/10.95 0.1\TS1/ptm/m/n/10.95 °\OT1/ptm/m/n/10.95 C ac-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1169--1169
-[]|\OT1/cmr/m/n/12 Data en-cryp-tion
+Underfull \hbox (badness 10000) in paragraph at lines 1166--1166
+\OT1/ptm/m/n/10.95 cu-racy main-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1169--1169
-\OT1/cmr/m/n/12 dur-ing trans-mis-
+Underfull \hbox (badness 6876) in paragraph at lines 1166--1167
+[]|\OT1/ptm/m/n/10.95 High pre-ci-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1169--1169
-[]|\OT1/cmr/m/n/12 AES-256
+Underfull \hbox (badness 10000) in paragraph at lines 1168--1168
+[]|\OT1/ptm/m/n/10.95 IOT-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1169--1169
-\OT1/cmr/m/n/12 en-cryp-tion
+Underfull \hbox (badness 10000) in paragraph at lines 1168--1168
+[]|\OT1/ptm/m/n/10.95 Data en-cryp-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1169--1169
-[]|\OT1/cmr/m/n/12 Encryption
+Underfull \hbox (badness 10000) in paragraph at lines 1168--1168
+\OT1/ptm/m/n/10.95 dur-ing trans-mis-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1169--1170
-[]|\OT1/cmr/m/n/12 Security
+Underfull \hbox (badness 10000) in paragraph at lines 1168--1168
+[]|\OT1/ptm/m/n/10.95 AES-256
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1168--1168
+\OT1/ptm/m/n/10.95 en-cryp-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1168--1168
+[]|\OT1/ptm/m/n/10.95 Encryption
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1168--1169
+[]|\OT1/ptm/m/n/10.95 Security
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1170--1170
+[]|\OT1/ptm/m/n/10.95 IOT-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1170--1170
+[]|\OT1/ptm/m/n/10.95 Process 1000
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1170--1170
+[]|\OT1/ptm/m/n/10.95 Processed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1170--1170
+\OT1/ptm/m/n/10.95 1200
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1172--1172
-[]|\OT1/cmr/m/n/12 IOT-
+[]|\OT1/ptm/m/n/10.95 IOT-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1172--1172
-[]|\OT1/cmr/m/n/12 Process 1000
+[]|\OT1/ptm/m/n/10.95 Data up-dates
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1172--1172
-[]|\OT1/cmr/m/n/12 Processed
+\OT1/ptm/m/n/10.95 ev-ery 10
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1172--1172
-\OT1/cmr/m/n/12 1200
+Underfull \hbox (badness 10000) in paragraph at lines 1172--1173
+[]|\OT1/ptm/m/n/10.95 Better than
  []
 
 
-Overfull \hbox (6.93953pt too wide) in paragraph at lines 1172--1172
-\OT1/cmr/m/n/12 records/minute| 
+Underfull \hbox (badness 10000) in paragraph at lines 1174--1174
+[]|\OT1/ptm/m/n/10.95 IOT-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1175--1175
-[]|\OT1/cmr/m/n/12 IOT-
+Underfull \hbox (badness 10000) in paragraph at lines 1174--1174
+[]|\OT1/ptm/m/n/10.95 Emergency alert
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1175--1175
-[]|\OT1/cmr/m/n/12 Data up-dates
+Underfull \hbox (badness 10000) in paragraph at lines 1174--1174
+[]|\OT1/ptm/m/n/10.95 Alerts trig-
  []
 
 
-Underfull \hbox (badness 4556) in paragraph at lines 1175--1175
-\OT1/cmr/m/n/12 ev-ery 10 sec-
+Underfull \hbox (badness 10000) in paragraph at lines 1174--1174
+\OT1/ptm/m/n/10.95 gered for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1175--1175
-[]|\OT1/cmr/m/n/12 Updates ev-
+Underfull \hbox (badness 10000) in paragraph at lines 1174--1174
+\OT1/ptm/m/n/10.95 thresh-old
  []
 
 
-Underfull \hbox (badness 2269) in paragraph at lines 1175--1176
-[]|\OT1/cmr/m/n/12 Better than
+Underfull \hbox (badness 4072) in paragraph at lines 1174--1174
+[]|\OT1/ptm/m/n/10.95 Alert sent in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1174--1175
+[]|\OT1/ptm/m/n/10.95 Rapid re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1176--1176
+[]|\OT1/ptm/m/n/10.95 IOT-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1176--1176
+[]|\OT1/ptm/m/n/10.95 Power con-sump-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1176--1176
+[]|\OT1/ptm/m/n/10.95 <5W av-er-age
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 1176--1176
+[]|\OT1/ptm/m/n/10.95 4.2W av-er-age
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 1176--1177
+[]|\OT1/ptm/m/n/10.95 Energy ef-fi-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1178--1178
-[]|\OT1/cmr/m/n/12 IOT-
+[]|\OT1/ptm/m/n/10.95 IOT-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1178--1178
-[]|\OT1/cmr/m/n/12 Emergency alert
+[]|\OT1/ptm/m/n/10.95 Multi-protocol
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1178--1178
-\OT1/cmr/m/n/12 for thresh-old
+\OT1/ptm/m/n/10.95 sup-port
+ []
+
+
+Underfull \hbox (badness 2846) in paragraph at lines 1178--1178
+[]|\OT1/ptm/m/n/10.95 Both work-ing
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1178--1179
-[]|\OT1/cmr/m/n/12 Rapid re-
+[]|\OT1/ptm/m/n/10.95 Protocol
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1181--1181
-[]|\OT1/cmr/m/n/12 IOT-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1181--1181
-[]|\OT1/cmr/m/n/12 <5W av-er-age
- []
-
-
-Underfull \hbox (badness 3168) in paragraph at lines 1181--1182
-[]|\OT1/cmr/m/n/12 Energy ef-fi-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1184--1184
-[]|\OT1/cmr/m/n/12 IOT-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1184--1184
-[]|\OT1/cmr/m/n/12 Multi-protocol
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1184--1184
-\OT1/cmr/m/n/12 sup-port
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1184--1185
-[]|\OT1/cmr/m/n/12 Protocol
- []
-
-
-Overfull \hbox (55.55197pt too wide) in alignment at lines 1149--1187
+Overfull \hbox (53.61833pt too wide) in alignment at lines 1154--1181
  [] [] [] [] [] [] 
  []
 
-[44]
-Overfull \hbox (17.09395pt too wide) in paragraph at lines 1193--1193
-|[]\OT1/cmr/bx/n/17.28 Blockchain Per-for-mance Test Cases - Hed-era Hash-
+[53]
+Overfull \hbox (18.1314pt too wide) in paragraph at lines 1185--1185
+|[]\OT1/ptm/b/n/17.28 Blockchain Per-for-mance Test Cases - Hed-era Hash-
+ []
+
+
+Overfull \hbox (53.61833pt too wide) in alignment at lines 1186--1190
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (53.61833pt too wide) in alignment at lines 1190--1195
+ [] [] [] [] [] [] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1197--1197
-[]|\OT1/cmr/bx/n/12 Test
+[]|\OT1/ptm/m/n/10.95 HBC-
  []
 
 
-Underfull \hbox (badness 5175) in paragraph at lines 1197--1197
-[]|\OT1/cmr/bx/n/12 Test Case De-
+Underfull \hbox (badness 10000) in paragraph at lines 1197--1197
+[]|\OT1/ptm/m/n/10.95 Transaction
  []
 
 
-Underfull \hbox (badness 2573) in paragraph at lines 1197--1197
-[]|\OT1/cmr/bx/n/12 Actual Re-
+Underfull \hbox (badness 10000) in paragraph at lines 1197--1197
+\OT1/ptm/m/n/10.95 through-put mea-
  []
 
 
-Overfull \hbox (55.55197pt too wide) in alignment at lines 1195--1199
- [] [] [] [] [] [] 
+Underfull \hbox (badness 10000) in paragraph at lines 1197--1198
+[]|\OT1/ptm/m/n/10.95 Excellent
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1202--1202
-[]|\OT1/cmr/bx/n/12 Test
+Underfull \hbox (badness 10000) in paragraph at lines 1200--1200
+[]|\OT1/ptm/m/n/10.95 HBC-
  []
 
 
-Underfull \hbox (badness 5175) in paragraph at lines 1202--1202
-[]|\OT1/cmr/bx/n/12 Test Case De-
+Underfull \hbox (badness 10000) in paragraph at lines 1203--1203
+[]|\OT1/ptm/m/n/10.95 HBC-
  []
 
 
-Underfull \hbox (badness 2573) in paragraph at lines 1202--1202
-[]|\OT1/cmr/bx/n/12 Actual Re-
+Underfull \hbox (badness 10000) in paragraph at lines 1203--1203
+[]|\OT1/ptm/m/n/10.95 Network la-tency
  []
 
 
-Overfull \hbox (55.55197pt too wide) in alignment at lines 1199--1204
- [] [] [] [] [] [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1206--1206
-[]|\OT1/cmr/m/n/12 HBC-
+Underfull \hbox (badness 10000) in paragraph at lines 1203--1203
+[]|\OT1/ptm/m/n/10.95 <100ms av-er-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1206--1206
-[]|\OT1/cmr/m/n/12 Transaction
+[]|\OT1/ptm/m/n/10.95 HBC-
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 1206--1206
+[]|\OT1/ptm/m/n/10.95 Consensus mech-a-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1206--1206
-\OT1/cmr/m/n/12 through-put mea-
+[]|\OT1/ptm/m/n/10.95 Byzantine
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1206--1207
-[]|\OT1/cmr/m/n/12 Excellent
+Underfull \hbox (badness 10000) in paragraph at lines 1206--1206
+[]|\OT1/ptm/m/n/10.95 Consensus
+ []
+
+
+Underfull \hbox (badness 1331) in paragraph at lines 1206--1207
+[]|\OT1/ptm/m/n/10.95 Robust con-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1209--1209
-[]|\OT1/cmr/m/n/12 HBC-
+[]|\OT1/ptm/m/n/10.95 HBC-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1209--1209
+[]|\OT1/ptm/m/n/10.95 Fees cal-cu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1209--1210
+[]|\OT1/ptm/m/n/10.95 Cost ef-fec-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1212--1212
-[]|\OT1/cmr/m/n/12 HBC-
+[]|\OT1/ptm/m/n/10.95 HBC-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1212--1212
-[]|\OT1/cmr/m/n/12 Network la-tency
+[]|\OT1/ptm/m/n/10.95 Concurrent user
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1212--1212
+[]|\OT1/ptm/m/n/10.95 1500 users
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 1212--1213
+[]|\OT1/ptm/m/n/10.95 Scalable ar-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1215--1215
-[]|\OT1/cmr/m/n/12 HBC-
+[]|\OT1/ptm/m/n/10.95 HBC-
  []
 
 
-Underfull \hbox (badness 3428) in paragraph at lines 1215--1215
-[]|\OT1/cmr/m/n/12 Consensus mech-a-
+Underfull \hbox (badness 1584) in paragraph at lines 1215--1215
+[]|\OT1/ptm/m/n/10.95 Synced in 22
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1215--1215
-[]|\OT1/cmr/m/n/12 Consensus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1218--1218
-[]|\OT1/cmr/m/n/12 HBC-
+Underfull \hbox (badness 10000) in paragraph at lines 1215--1216
+[]|\OT1/ptm/m/n/10.95 Fast syn-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1218--1218
-[]|\OT1/cmr/m/n/12 Fees cal-
+[]|\OT1/ptm/m/n/10.95 HBC-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1218--1218
-\OT1/cmr/m/n/12 cu-lated
+[]|\OT1/ptm/m/n/10.95 <2GB RAM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1218--1218
+[]|\OT1/ptm/m/n/10.95 1.8GB RAM
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1218--1219
-[]|\OT1/cmr/m/n/12 Cost ef-fec-
+[]|\OT1/ptm/m/n/10.95 Efficient
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1221--1221
-[]|\OT1/cmr/m/n/12 HBC-
+[]|\OT1/ptm/m/n/10.95 HBC-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1221--1221
-[]|\OT1/cmr/m/n/12 Concurrent user
+[]|\OT1/ptm/m/n/10.95 Network par-ti-tion
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1221--1221
-[]|\OT1/cmr/m/n/12 1500 users
+\OT1/ptm/m/n/10.95 a-tions dur-ing
  []
 
 
-Underfull \hbox (badness 2073) in paragraph at lines 1221--1222
-[]|\OT1/cmr/m/n/12 Scalable ar-
+Underfull \hbox (badness 10000) in paragraph at lines 1221--1221
+[]|\OT1/ptm/m/n/10.95 Operations
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1221--1222
+[]|\OT1/ptm/m/n/10.95 Fault tol-er-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1224--1224
-[]|\OT1/cmr/m/n/12 HBC-
+[]|\OT1/ptm/m/n/10.95 HBC-
  []
 
 
-Underfull \hbox (badness 1533) in paragraph at lines 1224--1224
-[]|\OT1/cmr/m/n/12 Node syn-chro-niza-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1224--1225
-[]|\OT1/cmr/m/n/12 Fast syn-
+Underfull \hbox (badness 2261) in paragraph at lines 1224--1224
+[]|\OT1/ptm/m/n/10.95 150ms ex-e-cu-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1227--1227
-[]|\OT1/cmr/m/n/12 HBC-
+[]|\OT1/ptm/m/n/10.95 HBC-
  []
 
 
-Underfull \hbox (badness 3557) in paragraph at lines 1227--1227
-[]|\OT1/cmr/m/n/12 1.8GB RAM
+Underfull \hbox (badness 2503) in paragraph at lines 1227--1227
+[]|\OT1/ptm/m/n/10.95 Data stor-age ef-fi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1227--1228
-[]|\OT1/cmr/m/n/12 Efficient
+Underfull \hbox (badness 10000) in paragraph at lines 1227--1227
+[]|\OT1/ptm/m/n/10.95 Compress
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1230--1230
-[]|\OT1/cmr/m/n/12 HBC-
- []
-
-
-Underfull \hbox (badness 5711) in paragraph at lines 1230--1230
-[]|\OT1/cmr/m/n/12 Network par-ti-tion
+Underfull \hbox (badness 10000) in paragraph at lines 1227--1227
+\OT1/ptm/m/n/10.95 trans-ac-tion
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1230--1230
-\OT1/cmr/m/n/12 a-tions dur-ing
+[]|\OT1/ptm/m/n/10.95 HBC-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1230--1230
-[]|\OT1/cmr/m/n/12 Operations
+[]|\OT1/ptm/m/n/10.95 <500ms re-
  []
 
 
-Underfull \hbox (badness 4927) in paragraph at lines 1230--1231
-[]|\OT1/cmr/m/n/12 Fault tol-er-
+Underfull \hbox (badness 10000) in paragraph at lines 1230--1231
+[]|\OT1/ptm/m/n/10.95 Responsive
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1233--1233
-[]|\OT1/cmr/m/n/12 HBC-
+[]|\OT1/ptm/m/n/10.95 HBC-
  []
 
 
-Underfull \hbox (badness 7133) in paragraph at lines 1233--1233
-[]|\OT1/cmr/m/n/12 <200ms ex-e-cu-
+Underfull \hbox (badness 3098) in paragraph at lines 1233--1233
+[]|\OT1/ptm/m/n/10.95 Transaction queue
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1233--1233
+[]|\OT1/ptm/m/n/10.95 55,000 TX
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1233--1234
-[]|\OT1/cmr/m/n/12 Fast con-
+[]|\OT1/ptm/m/n/10.95 Efficient
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1236--1236
-[]|\OT1/cmr/m/n/12 HBC-
- []
-
-
-Underfull \hbox (badness 2158) in paragraph at lines 1236--1236
-[]|\OT1/cmr/m/n/12 Data stor-age ef-fi-
+[]|\OT1/ptm/m/n/10.95 HBC-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1236--1236
-[]|\OT1/cmr/m/n/12 Compress
+[]|\OT1/ptm/m/n/10.95 Cross-shard com-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1236--1236
-\OT1/cmr/m/n/12 trans-ac-tion
+[]|\OT1/ptm/m/n/10.95 <1 sec-ond
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1239--1239
-[]|\OT1/cmr/m/n/12 HBC-
+Underfull \hbox (badness 10000) in paragraph at lines 1236--1236
+[]|\OT1/ptm/m/n/10.95 0.8 sec-onds
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1239--1239
-[]|\OT1/cmr/m/n/12 <500ms re-
+Underfull \hbox (badness 10000) in paragraph at lines 1236--1237
+[]|\OT1/ptm/m/n/10.95 Fast shard
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1239--1239
-[]|\OT1/cmr/m/n/12 320ms av-er-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1239--1240
-[]|\OT1/cmr/m/n/12 Responsive
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1242--1242
-[]|\OT1/cmr/m/n/12 HBC-
- []
-
-
-Underfull \hbox (badness 2237) in paragraph at lines 1242--1242
-[]|\OT1/cmr/m/n/12 Transaction queue
- []
-
-
-Underfull \hbox (badness 4341) in paragraph at lines 1242--1242
-[]|\OT1/cmr/m/n/12 Handle 50,000
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1242--1242
-[]|\OT1/cmr/m/n/12 55,000 TX
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1242--1243
-[]|\OT1/cmr/m/n/12 Efficient
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1245--1245
-[]|\OT1/cmr/m/n/12 HBC-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1245--1245
-[]|\OT1/cmr/m/n/12 Cross-shard com-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1245--1245
-[]|\OT1/cmr/m/n/12 0.8 sec-onds
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1245--1246
-[]|\OT1/cmr/m/n/12 Fast shard
- []
-
-
-Overfull \hbox (55.55197pt too wide) in alignment at lines 1204--1248
+Overfull \hbox (53.61833pt too wide) in alignment at lines 1195--1239
  [] [] [] [] [] [] 
  []
 
-[45]
-Underfull \hbox (badness 10000) in paragraph at lines 1256--1256
-[]|\OT1/cmr/bx/n/12 Test
- []
 
 
-Underfull \hbox (badness 5175) in paragraph at lines 1256--1256
-[]|\OT1/cmr/bx/n/12 Test Case De-
- []
-
-
-Underfull \hbox (badness 2573) in paragraph at lines 1256--1256
-[]|\OT1/cmr/bx/n/12 Actual Re-
- []
-
-
-Overfull \hbox (55.55197pt too wide) in alignment at lines 1254--1258
+[54]
+Overfull \hbox (53.61833pt too wide) in alignment at lines 1244--1248
  [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (53.61833pt too wide) in alignment at lines 1248--1253
+ [] [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1255--1255
+[]|\OT1/ptm/m/n/10.95 SEC-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1255--1255
+[]|\OT1/ptm/m/n/10.95 Ownership ver-i-fi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1255--1255
+[]|\OT1/ptm/m/n/10.95 Only owner
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1255--1255
+\OT1/ptm/m/n/10.95 can trans-fer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1255--1255
+[]|\OT1/ptm/m/n/10.95 Transfer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1255--1255
+\OT1/ptm/m/n/10.95 re-stricted
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 1255--1256
+[]|\OT1/ptm/m/n/10.95 Access con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1257--1257
+[]|\OT1/ptm/m/n/10.95 SEC-
+ []
+
+
+Underfull \hbox (badness 6995) in paragraph at lines 1257--1257
+[]|\OT1/ptm/m/n/10.95 Reentrancy at-tack
+ []
+
+
+Underfull \hbox (badness 3815) in paragraph at lines 1257--1257
+[]|\OT1/ptm/m/n/10.95 External calls
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1257--1258
+[]|\OT1/ptm/m/n/10.95 Security
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1257--1258
+\OT1/ptm/m/n/10.95 mea-sures
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1259--1259
+[]|\OT1/ptm/m/n/10.95 SEC-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1259--1259
+[]|\OT1/ptm/m/n/10.95 Integer over-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1259--1259
+\OT1/ptm/m/n/10.95 flow/underflow
+ []
+
+
+Underfull \hbox (badness 2680) in paragraph at lines 1259--1259
+[]|\OT1/ptm/m/n/10.95 SafeMath im-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1259--1259
+[]|\OT1/ptm/m/n/10.95 No over-flow
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1259--1260
+[]|\OT1/ptm/m/n/10.95 Arithmetic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1259--1260
+\OT1/ptm/m/n/10.95 op-er-a-tions
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1261--1261
-[]|\OT1/cmr/bx/n/12 Test
+[]|\OT1/ptm/m/n/10.95 SEC-
  []
 
 
-Underfull \hbox (badness 5175) in paragraph at lines 1261--1261
-[]|\OT1/cmr/bx/n/12 Test Case De-
+Underfull \hbox (badness 10000) in paragraph at lines 1261--1261
+[]|\OT1/ptm/m/n/10.95 Unauthorized
  []
 
 
-Underfull \hbox (badness 2573) in paragraph at lines 1261--1261
-[]|\OT1/cmr/bx/n/12 Actual Re-
+Underfull \hbox (badness 10000) in paragraph at lines 1261--1261
+[]|\OT1/ptm/m/n/10.95 Only au-
  []
 
 
-Overfull \hbox (55.55197pt too wide) in alignment at lines 1258--1263
- [] [] [] [] [] [] 
+Underfull \hbox (badness 10000) in paragraph at lines 1261--1261
+\OT1/ptm/m/n/10.95 tho-rized
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1261--1261
+[]|\OT1/ptm/m/n/10.95 Minting
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1263--1263
+[]|\OT1/ptm/m/n/10.95 SEC-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1263--1263
+[]|\OT1/ptm/m/n/10.95 Approvals
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1263--1263
+\OT1/ptm/m/n/10.95 work-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1263--1264
+[]|\OT1/ptm/m/n/10.95 Safe ap-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1263--1264
+\OT1/ptm/m/n/10.95 proval
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1265--1265
-[]|\OT1/cmr/m/n/12 SEC-
+[]|\OT1/ptm/m/n/10.95 SEC-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1265--1265
-[]|\OT1/cmr/m/n/12 Transfer
+[]|\OT1/ptm/m/n/10.95 Contract up-grade
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1265--1265
-\OT1/cmr/m/n/12 re-stricted
+[]|\OT1/ptm/m/n/10.95 Upgrades re-
  []
 
 
-Underfull \hbox (badness 3229) in paragraph at lines 1265--1266
-[]|\OT1/cmr/m/n/12 Access con-
+Underfull \hbox (badness 10000) in paragraph at lines 1265--1266
+[]|\OT1/ptm/m/n/10.95 Secure
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1268--1268
-[]|\OT1/cmr/m/n/12 SEC-
+Underfull \hbox (badness 10000) in paragraph at lines 1267--1267
+[]|\OT1/ptm/m/n/10.95 SEC-
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 1268--1268
-[]|\OT1/cmr/m/n/12 Reentrancy at-tack
+Underfull \hbox (badness 10000) in paragraph at lines 1267--1267
+[]|\OT1/ptm/m/n/10.95 Gas limit at-tack
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1268--1268
-[]|\OT1/cmr/m/n/12 External calls
+Underfull \hbox (badness 10000) in paragraph at lines 1267--1267
+[]|\OT1/ptm/m/n/10.95 Functions
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1268--1268
-[]|\OT1/cmr/m/n/12 No reen-
+Underfull \hbox (badness 10000) in paragraph at lines 1267--1268
+[]|\OT1/ptm/m/n/10.95 DoS at-tack
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 1268--1268
-\OT1/cmr/m/n/12 trancy pos-si-
+Underfull \hbox (badness 10000) in paragraph at lines 1269--1269
+[]|\OT1/ptm/m/n/10.95 SEC-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1268--1269
-[]|\OT1/cmr/m/n/12 Security
+Underfull \hbox (badness 10000) in paragraph at lines 1269--1269
+[]|\OT1/ptm/m/n/10.95 Metadata im-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1268--1269
-\OT1/cmr/m/n/12 mea-sures
+Underfull \hbox (badness 10000) in paragraph at lines 1269--1269
+[]|\OT1/ptm/m/n/10.95 Token meta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1269--1269
+\OT1/ptm/m/n/10.95 data un-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1269--1269
+[]|\OT1/ptm/m/n/10.95 Metadata
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1269--1270
+[]|\OT1/ptm/m/n/10.95 Data in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1269--1270
+\OT1/ptm/m/n/10.95 tegrity
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1271--1271
-[]|\OT1/cmr/m/n/12 SEC-
+[]|\OT1/ptm/m/n/10.95 SEC-
+ []
+
+
+Underfull \hbox (badness 1867) in paragraph at lines 1271--1271
+[]|\OT1/ptm/m/n/10.95 Burn func-tion se-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1271--1271
-[]|\OT1/cmr/m/n/12 Integer over-
+[]|\OT1/ptm/m/n/10.95 Only to-ken
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1271--1271
-\OT1/cmr/m/n/12 flow/underflow
+\OT1/ptm/m/n/10.95 owner can
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1271--1271
-[]|\OT1/cmr/m/n/12 SafeMath im-
+Underfull \hbox (badness 10000) in paragraph at lines 1273--1273
+[]|\OT1/ptm/m/n/10.95 SEC-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1271--1271
-[]|\OT1/cmr/m/n/12 No over-flow
+Underfull \hbox (badness 10000) in paragraph at lines 1273--1273
+[]|\OT1/ptm/m/n/10.95 Batch lim-its
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1271--1272
-[]|\OT1/cmr/m/n/12 Arithmetic
+Underfull \hbox (badness 10000) in paragraph at lines 1273--1273
+[]|\OT1/ptm/m/n/10.95 Limits work-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1271--1272
-\OT1/cmr/m/n/12 op-er-a-tions
+Underfull \hbox (badness 10000) in paragraph at lines 1275--1275
+[]|\OT1/ptm/m/n/10.95 SEC-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1274--1274
-[]|\OT1/cmr/m/n/12 SEC-
+Underfull \hbox (badness 10000) in paragraph at lines 1275--1275
+[]|\OT1/ptm/m/n/10.95 MEV pro-tec-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1274--1274
-[]|\OT1/cmr/m/n/12 Unauthorized
+Underfull \hbox (badness 10000) in paragraph at lines 1275--1275
+\OT1/ptm/m/n/10.95 tion im-ple-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1274--1274
-[]|\OT1/cmr/m/n/12 Only au-tho-
+Underfull \hbox (badness 10000) in paragraph at lines 1275--1275
+[]|\OT1/ptm/m/n/10.95 No front-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1274--1274
-[]|\OT1/cmr/m/n/12 Minting
+Underfull \hbox (badness 10000) in paragraph at lines 1275--1275
+\OT1/ptm/m/n/10.95 running
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1275--1276
+[]|\OT1/ptm/m/n/10.95 Transaction
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1275--1276
+\OT1/ptm/m/n/10.95 or-der-ing
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1277--1277
-[]|\OT1/cmr/m/n/12 SEC-
+[]|\OT1/ptm/m/n/10.95 SEC-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1277--1277
-[]|\OT1/cmr/m/n/12 Approvals
+[]|\OT1/ptm/m/n/10.95 Only ver-i-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1277--1277
-\OT1/cmr/m/n/12 work-ing
+\OT1/ptm/m/n/10.95 fied cred-its
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1277--1278
-[]|\OT1/cmr/m/n/12 Safe ap-
+[]|\OT1/ptm/m/n/10.95 Credit au-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1277--1278
-\OT1/cmr/m/n/12 proval
+\OT1/ptm/m/n/10.95 then-tic-ity
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1280--1280
-[]|\OT1/cmr/m/n/12 SEC-
+Underfull \hbox (badness 10000) in paragraph at lines 1279--1279
+[]|\OT1/ptm/m/n/10.95 SEC-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1280--1280
-[]|\OT1/cmr/m/n/12 Contract up-grade
+Underfull \hbox (badness 10000) in paragraph at lines 1279--1279
+[]|\OT1/ptm/m/n/10.95 Double spend-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1280--1280
-[]|\OT1/cmr/m/n/12 Upgrades re-
+Underfull \hbox (badness 5490) in paragraph at lines 1279--1279
+[]|\OT1/ptm/m/n/10.95 Unique to-ken
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1280--1281
-[]|\OT1/cmr/m/n/12 Secure up-
+Underfull \hbox (badness 10000) in paragraph at lines 1279--1279
+[]|\OT1/ptm/m/n/10.95 No du-pli-cate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1279--1280
+[]|\OT1/ptm/m/n/10.95 Token
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1279--1280
+\OT1/ptm/m/n/10.95 unique-ness
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1281--1281
+[]|\OT1/ptm/m/n/10.95 SEC-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1281--1281
+[]|\OT1/ptm/m/n/10.95 Emergency pause
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1281--1281
+[]|\OT1/ptm/m/n/10.95 Contract can
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 1281--1281
+[]|\OT1/ptm/m/n/10.95 Pause mech-a-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1281--1282
+[]|\OT1/ptm/m/n/10.95 Emergency
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1281--1282
+\OT1/ptm/m/n/10.95 con-trols
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1283--1283
-[]|\OT1/cmr/m/n/12 SEC-
+[]|\OT1/ptm/m/n/10.95 SEC-
  []
 
 
-Underfull \hbox (badness 6658) in paragraph at lines 1283--1283
-[]|\OT1/cmr/m/n/12 Gas limit at-tack
+Underfull \hbox (badness 10000) in paragraph at lines 1283--1283
+[]|\OT1/ptm/m/n/10.95 Transfer
  []
 
 
-Underfull \hbox (badness 7256) in paragraph at lines 1283--1284
-[]|\OT1/cmr/m/n/12 DoS at-tack
+Underfull \hbox (badness 10000) in paragraph at lines 1283--1283
+\OT1/ptm/m/n/10.95 cooldowns
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1286--1286
-[]|\OT1/cmr/m/n/12 SEC-
+Underfull \hbox (badness 10000) in paragraph at lines 1283--1283
+[]|\OT1/ptm/m/n/10.95 Cooldowns
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1286--1286
-[]|\OT1/cmr/m/n/12 Metadata im-
+Underfull \hbox (badness 10000) in paragraph at lines 1283--1284
+[]|\OT1/ptm/m/n/10.95 Temporal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1286--1286
-[]|\OT1/cmr/m/n/12 Token meta-
+Underfull \hbox (badness 10000) in paragraph at lines 1283--1284
+\OT1/ptm/m/n/10.95 con-trols
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1286--1286
-[]|\OT1/cmr/m/n/12 Metadata
+Underfull \hbox (badness 10000) in paragraph at lines 1285--1285
+[]|\OT1/ptm/m/n/10.95 SEC-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1286--1287
-[]|\OT1/cmr/m/n/12 Data in-
+Underfull \hbox (badness 10000) in paragraph at lines 1285--1285
+[]|\OT1/ptm/m/n/10.95 External de-pen-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1286--1287
-\OT1/cmr/m/n/12 tegrity
+Underfull \hbox (badness 10000) in paragraph at lines 1285--1285
+[]|\OT1/ptm/m/n/10.95 Oracle data
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1289--1289
-[]|\OT1/cmr/m/n/12 SEC-
+Underfull \hbox (badness 10000) in paragraph at lines 1285--1286
+[]|\OT1/ptm/m/n/10.95 External
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1289--1289
-[]|\OT1/cmr/m/n/12 Only to-ken
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1289--1289
-[]|\OT1/cmr/m/n/12 Burn re-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1289--1289
-\OT1/cmr/m/n/12 stricted to
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1292--1292
-[]|\OT1/cmr/m/n/12 SEC-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1292--1292
-[]|\OT1/cmr/m/n/12 Batch lim-its
- []
-
-
-Underfull \hbox (badness 2368) in paragraph at lines 1292--1292
-[]|\OT1/cmr/m/n/12 Limits work-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1295--1295
-[]|\OT1/cmr/m/n/12 SEC-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1295--1295
-[]|\OT1/cmr/m/n/12 MEV pro-tec-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1295--1295
-\OT1/cmr/m/n/12 tion im-ple-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1295--1295
-[]|\OT1/cmr/m/n/12 No front-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1295--1295
-\OT1/cmr/m/n/12 running
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1295--1296
-[]|\OT1/cmr/m/n/12 Transaction
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1295--1296
-\OT1/cmr/m/n/12 or-der-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1298--1298
-[]|\OT1/cmr/m/n/12 SEC-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1298--1298
-[]|\OT1/cmr/m/n/12 Only ver-i-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1298--1298
-\OT1/cmr/m/n/12 fied cred-its
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1298--1298
-[]|\OT1/cmr/m/n/12 Validation
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1298--1299
-[]|\OT1/cmr/m/n/12 Credit au-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1298--1299
-\OT1/cmr/m/n/12 then-tic-ity
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1301--1301
-[]|\OT1/cmr/m/n/12 SEC-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1301--1301
-[]|\OT1/cmr/m/n/12 Double spend-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1301--1301
-[]|\OT1/cmr/m/n/12 Unique to-ken
- []
-
-
-Underfull \hbox (badness 2253) in paragraph at lines 1301--1301
-[]|\OT1/cmr/m/n/12 No du-pli-cate
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1301--1302
-[]|\OT1/cmr/m/n/12 Token
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1301--1302
-\OT1/cmr/m/n/12 unique-ness
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1304--1304
-[]|\OT1/cmr/m/n/12 SEC-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1304--1304
-[]|\OT1/cmr/m/n/12 Emergency pause
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1304--1304
-[]|\OT1/cmr/m/n/12 Contract can
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1304--1305
-[]|\OT1/cmr/m/n/12 Emergency
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1304--1305
-\OT1/cmr/m/n/12 con-trols
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1307--1307
-[]|\OT1/cmr/m/n/12 SEC-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1307--1307
-[]|\OT1/cmr/m/n/12 Transfer
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1307--1307
-\OT1/cmr/m/n/12 cooldowns
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1307--1307
-[]|\OT1/cmr/m/n/12 Cooldowns
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1307--1308
-[]|\OT1/cmr/m/n/12 Temporal
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1307--1308
-\OT1/cmr/m/n/12 con-trols
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1310--1310
-[]|\OT1/cmr/m/n/12 SEC-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1310--1310
-[]|\OT1/cmr/m/n/12 External de-pen-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1310--1310
-[]|\OT1/cmr/m/n/12 Oracle data
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1310--1310
-[]|\OT1/cmr/m/n/12 Data val-i-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1310--1310
-\OT1/cmr/m/n/12 dated cor-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1310--1311
-[]|\OT1/cmr/m/n/12 External
- []
-
-
-Overfull \hbox (55.55197pt too wide) in alignment at lines 1263--1313
+Overfull \hbox (53.61833pt too wide) in alignment at lines 1253--1288
  [] [] [] [] [] [] 
  []
 
-[46]
 
-[47]
+
+[55] [56]
+
+[57]
 Chapter 10.
 
 
-[48
+[58
 
 ]
-<demo1.png, id=410, 1502.61375pt x 865.2325pt>
+<demo1.png, id=448, 1502.61375pt x 865.2325pt>
 File: demo1.png Graphic file (type png)
 <use demo1.png>
-Package pdftex.def Info: demo1.png  used on input line 1322.
-(pdftex.def)             Requested size: 452.9679pt x 260.82597pt.
+Package pdftex.def Info: demo1.png  used on input line 1298.
+(pdftex.def)             Requested size: 395.15057pt x 227.5296pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1298--1299
+ [][] 
+ []
+
+<demo2.png, id=449, 1516.66624pt x 903.375pt>
+File: demo2.png Graphic file (type png)
+<use demo2.png>
+Package pdftex.def Info: demo2.png  used on input line 1306.
+(pdftex.def)             Requested size: 395.15057pt x 235.35442pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1306--1307
+ [][] 
+ []
+
+<demo3.png, id=450, 1516.66624pt x 903.375pt>
+File: demo3.png Graphic file (type png)
+<use demo3.png>
+Package pdftex.def Info: demo3.png  used on input line 1314.
+(pdftex.def)             Requested size: 395.15057pt x 235.35442pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1314--1315
+ [][] 
+ []
+
+<demo4.png, id=451, 1516.66624pt x 903.375pt>
+File: demo4.png Graphic file (type png)
+<use demo4.png>
+Package pdftex.def Info: demo4.png  used on input line 1322.
+(pdftex.def)             Requested size: 395.15057pt x 235.35442pt.
 
 Overfull \hbox (6.79999pt too wide) in paragraph at lines 1322--1323
  [][] 
  []
 
-<demo2.png, id=411, 1516.66624pt x 903.375pt>
-File: demo2.png Graphic file (type png)
-<use demo2.png>
-Package pdftex.def Info: demo2.png  used on input line 1330.
-(pdftex.def)             Requested size: 452.9679pt x 269.80156pt.
+
+
+[59 <./demo1.png> <./demo2.png>]
+
+[60 <./demo3.png> <./demo4.png>]
+<demo5.png, id=470, 1516.66624pt x 903.375pt>
+File: demo5.png Graphic file (type png)
+<use demo5.png>
+Package pdftex.def Info: demo5.png  used on input line 1330.
+(pdftex.def)             Requested size: 395.15057pt x 235.35442pt.
 
 Overfull \hbox (6.79999pt too wide) in paragraph at lines 1330--1331
  [][] 
  []
 
-<demo3.png, id=412, 1516.66624pt x 903.375pt>
-File: demo3.png Graphic file (type png)
-<use demo3.png>
-Package pdftex.def Info: demo3.png  used on input line 1338.
-(pdftex.def)             Requested size: 452.9679pt x 269.80156pt.
+
+LaTeX Warning: File `demo6.png' not found on input line 1338.
+
+
+/Users/swapnilshinde/Desktop/blackbook/report.tex:1338: Package pdftex.def Error: File `demo6.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1338 ...degraphics[width=\textwidth]{demo6.png}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 
 Overfull \hbox (6.79999pt too wide) in paragraph at lines 1338--1339
  [][] 
@@ -2972,545 +2780,582 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 1338--1339
 
 
 
-[49 <./demo1.png> <./demo2.png>]
-<demo4.png, id=422, 1516.66624pt x 903.375pt>
-File: demo4.png Graphic file (type png)
-<use demo4.png>
-Package pdftex.def Info: demo4.png  used on input line 1346.
-(pdftex.def)             Requested size: 452.9679pt x 269.80156pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1346--1347
- [][] 
- []
-
-<demo5.png, id=423, 1516.66624pt x 903.375pt>
-File: demo5.png Graphic file (type png)
-<use demo5.png>
-Package pdftex.def Info: demo5.png  used on input line 1354.
-(pdftex.def)             Requested size: 452.9679pt x 269.80156pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1354--1355
- [][] 
- []
-
-<demo6.png, id=424, 1516.66624pt x 903.375pt>
-File: demo6.png Graphic file (type png)
-<use demo6.png>
-Package pdftex.def Info: demo6.png  used on input line 1362.
-(pdftex.def)             Requested size: 452.9679pt x 269.80156pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1362--1363
- [][] 
- []
-
-
-
-[50 <./demo3.png> <./demo4.png>]
-
-[51 <./demo5.png> <./demo6.png>]
-
-[52]
-<demo7.png, id=445, 1516.66624pt x 903.375pt>
-File: demo7.png Graphic file (type png)
-<use demo7.png>
-Package pdftex.def Info: demo7.png  used on input line 1373.
-(pdftex.def)             Requested size: 452.9679pt x 269.80156pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1373--1374
- [][] 
- []
-
-
-
-[53 <./demo7.png>]
-Chapter 11.
-
-Overfull \hbox (14.83202pt too wide) in paragraph at lines 1409--1409
- []    \OT1/cmtt/m/n/12 \item Initialize IoT device configurations and verify connectivity:[] 
- []
-
-
-
-[54
-
-]
-
-[55]
-
-[56]
-
-[57]
-Chapter 12.
-
-
-[58
-
-]
-Overfull \hbox (3.25375pt too wide) in paragraph at lines 1500--1501
-[]\OT1/cmr/m/n/12 The im-ple-men-ta-tion achieves sig-nif-i-cant im-prove-ments in car-bon credit op-er-a-tions through
- []
-
-
-
-[59]
-
-[60]
-Chapter 13.
-
-
-[61
-
-]
-Overfull \hbox (8.09196pt too wide) in paragraph at lines 1533--1534
-\OT1/cmr/m/n/12 com-pre-hen-sive sur-vey of de-cen-tral-ized en-vi-ron-men-tal mar-kets." \OT1/cmr/m/it/12 Jour-nal of Blockchain
- []
-
-
+[61 <./demo5.png>]
 
 [62]
-Annexure A.
 
-Overfull \hbox (4.04567pt too wide) in paragraph at lines 1563--1563
-|[]\OT1/cmr/bx/n/17.28 PROBLEM DE-VEL-OP-MENT AND FEA-SI-BIL-
+LaTeX Warning: File `demo7.png' not found on input line 1349.
+
+
+/Users/swapnilshinde/Desktop/blackbook/report.tex:1349: Package pdftex.def Error: File `demo7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1349 ...degraphics[width=\textwidth]{demo7.png}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1349--1350
+ [][] 
  []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+
+[63]
+Chapter 11.
 
 
-
-[63
+[64
 
 ]
+Overfull \hbox (42.38095pt too wide) in paragraph at lines 1385--1385
+ []    \OT1/cmtt/m/n/10.95 \item Initialize IoT device configurations and verify connectivity:[] 
+ []
 
-[64]
+
 
 [65]
 
 [66]
-Annexure B.
 
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1680.
-
-
-Overfull \hbox (15.54343pt too wide) in paragraph at lines 1687--1688
-\OT1/cmr/m/n/12 and fron-tend com-po-nents, key ob-jects such as \OT1/cmtt/m/n/12 CarbonProject\OT1/cmr/m/n/12 , \OT1/cmtt/m/n/12 IoTSensor\OT1/cmr/m/n/12 , \OT1/cmtt/m/n/12 EmissionData\OT1/cmr/m/n/12 ,
- []
-
-
-
-[67
-
-]
+[67]
 
 [68]
-Overfull \hbox (13.20778pt too wide) in paragraph at lines 1735--1736
-[]\OT1/cmr/bx/n/12 Project Reg-is-tra-tion: \OT1/cmr/m/n/12 Valid car-bon project pa-ram-e-ters re-sult in suc-cess-ful blockchain
- []
+Chapter 12.
 
 
-
-[69]
-
-[70]
-Annexure C.
-
-Underfull \hbox (badness 1960) in paragraph at lines 1790--1790
-[]|\OT1/cmr/m/n/12 Project ini-ti-a-tion and re-quire-
- []
-
-
-Underfull \hbox (badness 6575) in paragraph at lines 1794--1794
-[]|\OT1/cmr/m/n/12 IoT in-fras-truc-ture setup and
- []
-
-
-Underfull \hbox (badness 8151) in paragraph at lines 1796--1796
-[]|\OT1/cmr/m/n/12 Hedera blockchain in-te-gra-tion
- []
-
-
-Underfull \hbox (badness 3058) in paragraph at lines 1800--1800
-[]|\OT1/cmr/m/n/12 Frontend mar-ket-place de-vel-op-
- []
-
-
-Underfull \hbox (badness 1122) in paragraph at lines 1804--1804
-[]|\OT1/cmr/m/n/12 End-to-end test-ing and per-for-
- []
-
-
-Underfull \hbox (badness 4391) in paragraph at lines 1812--1812
-[]|\OT1/cmr/m/n/12 Final pre-sen-ta-tion prepa-ra-tion
- []
-
-
-
-[71
+[69
 
 ]
-Annexure D.
-
-Overfull \hbox (0.6898pt too wide) in paragraph at lines 1824--1825
-[]\OT1/cmr/bx/n/12 Paper Ti-tle: \OT1/cmr/m/n/12 BLOCKCHAIN AND IOT-DRIVEN CAR-BON OFF-SET-TING FOR
+Overfull \hbox (2.82272pt too wide) in paragraph at lines 1474--1475
+\OT1/ptm/m/n/10.95 rep-re-sents a paradigm shift in en-vi-ron-men-tal ac-count-abil-ity and car-bon mar-ket trans-parency.
  []
 
+
+
+[70]
+
+[71]
+Chapter 13.
 
 
 [72
 
 ]
-Annexure E.
-<plag-report-1.png, id=597, 526.96875pt x 271.0125pt>
-File: plag-report-1.png Graphic file (type png)
-<use plag-report-1.png>
-Package pdftex.def Info: plag-report-1.png  used on input line 1857.
-(pdftex.def)             Requested size: 452.9679pt x 232.96695pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1857--1858
- [][] 
- []
-
-<plag-report-2.png, id=598, 526.96875pt x 271.0125pt>
-File: plag-report-2.png Graphic file (type png)
-<use plag-report-2.png>
-Package pdftex.def Info: plag-report-2.png  used on input line 1866.
-(pdftex.def)             Requested size: 452.9679pt x 232.96695pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1866--1867
- [][] 
+Overfull \hbox (8.48051pt too wide) in paragraph at lines 1509--1510
+\OT1/ptm/m/n/10.95 com-pre-hen-sive sur-vey of de-cen-tral-ized en-vi-ron-men-tal mar-kets." \OT1/ptm/m/it/10.95 Jour-nal of Blockchain
  []
 
 
 
-[73
+[73]
 
- <./plag-report-1.png>]
-
-[74 <./plag-report-2.png>]
-Annexure F.
+[74]
+Annexure A.
 
 
 [75
 
 ]
-
-[76]
-Overfull \hbox (23.62552pt too wide) in paragraph at lines 1919--1919
-|[]\OT1/cmr/bx/n/17.28 ASSIGNMENT 2: WORK-STA-TION SETUP AND
+Overfull \hbox (3.47559pt too wide) in paragraph at lines 1539--1539
+|[]\OT1/ptm/b/n/17.28 PROBLEM DE-VEL-OP-MENT AND FEA-SI-BIL-
  []
 
+
+
+[76]
+Overfull \hbox (2.06723pt too wide) in paragraph at lines 1577--1578
+\OT1/ptm/b/n/10.95 i-nate \OT1/ptm/m/n/10.95 man-ual ver-i-fi-ca-tion in-ter-me-di-aries, and \OT1/ptm/b/n/10.95 Avoid \OT1/ptm/m/n/10.95 opaque fee struc-tures and dou-ble count-
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1593.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1593.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1593.
 
 
 [77]
-Overfull \hbox (12.14775pt too wide) in paragraph at lines 1953--1953
-|[]\OT1/cmr/bx/n/17.28 ASSIGNMENT 3: PROJECT PRO-GRAM-MING
- []
-
-
-Overfull \hbox (0.15102pt too wide) in paragraph at lines 1978--1979
-\OT1/cmr/m/n/12 Project func-tions were im-ple-mented suc-cess-fully, meet-ing en-vi-ron-men-tal mon-i-tor-ing needs
- []
-
-
 
 [78]
-Underfull \hbox (badness 3049) in paragraph at lines 1990--1990
-[]|\OT1/cmr/m/n/12 IoT Sen-sor Con-nec-
- []
-
-
-Underfull \hbox (badness 2310) in paragraph at lines 1992--1992
-[]|\OT1/cmr/m/n/12 Smart Con-tract De-
- []
-
-
-Underfull \hbox (badness 2626) in paragraph at lines 1994--1994
-[]|\OT1/cmr/m/n/12 Carbon Credit To-k-
- []
-
-
-Underfull \hbox (badness 1038) in paragraph at lines 1996--1996
-[]|\OT1/cmr/m/n/12 Real-time Data Pro-
- []
-
-
-Underfull \hbox (badness 6995) in paragraph at lines 1998--1998
-[]|\OT1/cmr/m/n/12 MQTT Com-mu-ni-ca-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1998--1998
-[]|\OT1/cmr/m/n/12 Messages Pub-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2008--2008
-[]|\OT1/cmr/m/n/12 Account Cre-ated
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2010--2010
-[]|\OT1/cmr/m/n/12 Carbon Project
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2012--2012
-[]|\OT1/cmr/m/n/12 Real-time Dash-
- []
-
-
-Underfull \hbox (badness 2970) in paragraph at lines 2014--2014
-[]|\OT1/cmr/m/n/12 Carbon Credit Pur-
- []
-
-
-Underfull \hbox (badness 4859) in paragraph at lines 2014--2014
-[]|\OT1/cmr/m/n/12 Transaction Com-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2018--2018
-[]|\OT1/cmr/m/n/12 Sensor Data In-
- []
-
-
-Underfull \hbox (badness 5345) in paragraph at lines 2028--2028
-[]|\OT1/cmr/m/n/12 Device Con-nected
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2030--2030
-[]|\OT1/cmr/m/n/12 Power Mea-sure-ment
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2030--2030
-[]|\TS1/cmr/m/n/12 ±\OT1/cmr/m/n/12 0.1% Mea-sure-
- []
-
-
-Underfull \hbox (badness 2080) in paragraph at lines 2032--2032
-[]|\OT1/cmr/m/n/12 MQTT Data Trans-
- []
-
-
-Underfull \hbox (badness 2529) in paragraph at lines 2034--2034
-[]|\OT1/cmr/m/n/12 Automatic Re-con-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2036--2036
-[]|\OT1/cmr/m/n/12 TLS En-cryp-tion
- []
 
 [79]
-Underfull \hbox (badness 10000) in paragraph at lines 2046--2046
-[]|\OT1/cmr/m/n/12 >1000 TPS
- []
+Annexure B.
 
 
-Underfull \hbox (badness 6944) in paragraph at lines 2050--2050
-[]|\OT1/cmr/m/n/12 Gas Op-ti-miza-tion
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2054--2054
-[]|\OT1/cmr/m/n/12 Multiple Con-cur-
- []
-
-
-
-[80]
-Annexure G.
-
-
-[81
+[80
 
 ]
-<swapnil-pfp.jpeg, id=677, 2591.6825pt x 2591.6825pt>
-File: swapnil-pfp.jpeg Graphic file (type jpg)
-<use swapnil-pfp.jpeg>
-Package pdftex.def Info: swapnil-pfp.jpeg  used on input line 2066.
-(pdftex.def)             Requested size: 60.0pt x 59.99103pt.
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 1656.
 
 
-[82 <./swapnil-pfp.jpeg>]
-<shruti-dp.jpeg, id=690, 314.17375pt x 432.61626pt>
-File: shruti-dp.jpeg Graphic file (type jpg)
-<use shruti-dp.jpeg>
-Package pdftex.def Info: shruti-dp.jpeg  used on input line 2079.
-(pdftex.def)             Requested size: 60.0pt x 82.61382pt.
+Overfull \hbox (3.77075pt too wide) in paragraph at lines 1663--1664
+\OT1/ptm/m/n/10.95 fron-tend com-po-nents, key ob-jects such as \OT1/cmtt/m/n/10.95 CarbonProject\OT1/ptm/m/n/10.95 , \OT1/cmtt/m/n/10.95 IoTSensor\OT1/ptm/m/n/10.95 , \OT1/cmtt/m/n/10.95 EmissionData\OT1/ptm/m/n/10.95 ,
+ []
 
 
-[83 <./shruti-dp.jpeg>]
-<ankit-dp.jpeg, id=704, 4172.58875pt x 4175.6pt>
-File: ankit-dp.jpeg Graphic file (type jpg)
-<use ankit-dp.jpeg>
-Package pdftex.def Info: ankit-dp.jpeg  used on input line 2092.
-(pdftex.def)             Requested size: 60.0pt x 60.019pt.
+
+[81]
+
+[82]
+Overfull \hbox (12.64713pt too wide) in paragraph at lines 1711--1712
+[]\OT1/ptm/b/n/10.95 Project Reg-is-tra-tion: \OT1/ptm/m/n/10.95 Valid car-bon project pa-ram-e-ters re-sult in suc-cess-ful blockchain
+ []
 
 
-[84 <./ankit-dp.jpeg>]
-<rutuj-dp.jpeg, id=717, 962.59625pt x 1130.2225pt>
-File: rutuj-dp.jpeg Graphic file (type jpg)
-<use rutuj-dp.jpeg>
-Package pdftex.def Info: rutuj-dp.jpeg  used on input line 2105.
-(pdftex.def)             Requested size: 60.0pt x 70.43178pt.
+
+[83]
+Overfull \hbox (0.2501pt too wide) in paragraph at lines 1750--1751
+\OT1/ptm/m/n/10.95 Applying a divide-and-conquer method-ol-ogy for sys-tem de-com-po-si-tion, cou-pled with com-
+ []
 
 
-[85 <./rutuj-dp.jpeg>]
-Chapter 14.
+Overfull \hbox (14.31221pt too wide) in paragraph at lines 1752--1753
+[]\OT1/ptm/m/n/10.95 This sys-tem-atic ap-proach ad-dresses the unique chal-lenges of dis-tributed IoT-blockchain
+ []
+
+
+
+[84]
+
+[85]
+Annexure C.
 
 
 [86
 
 ]
-<paper-sem1-1.png, id=737, 587.19376pt x 735.74875pt>
+Underfull \hbox (badness 5939) in paragraph at lines 1768--1768
+[]|\OT1/ptm/m/n/12 System ar-chi-tec-ture de-sign and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1770--1770
+[]|\OT1/ptm/m/n/12 IoT in-fras-truc-ture setup and
+ []
+
+
+Underfull \hbox (badness 6461) in paragraph at lines 1774--1774
+[]|\OT1/ptm/m/n/12 Backend API de-vel-op-ment and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1780--1780
+[]|\OT1/ptm/m/n/12 End-to-end test-ing and per-for-
+ []
+
+
+Underfull \hbox (badness 3375) in paragraph at lines 1784--1784
+[]|\OT1/ptm/m/n/12 Pilot de-ploy-ment and val-i-da-tion
+ []
+
+
+
+[87]
+Annexure D.
+
+
+[88
+
+]
+
+[89]
+Annexure E.
+
+
+[90
+
+]
+<plag-report-1.png, id=670, 526.96875pt x 271.0125pt>
+File: plag-report-1.png Graphic file (type png)
+<use plag-report-1.png>
+Package pdftex.def Info: plag-report-1.png  used on input line 1833.
+(pdftex.def)             Requested size: 395.15057pt x 203.22992pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1833--1834
+ [][] 
+ []
+
+<plag-report-2.png, id=671, 526.96875pt x 271.0125pt>
+File: plag-report-2.png Graphic file (type png)
+<use plag-report-2.png>
+Package pdftex.def Info: plag-report-2.png  used on input line 1842.
+(pdftex.def)             Requested size: 395.15057pt x 203.22992pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1842--1843
+ [][] 
+ []
+
+
+
+[91 <./plag-report-1.png> <./plag-report-2.png>]
+Annexure F.
+
+
+[92
+
+]
+
+[93]
+
+[94]
+Overfull \hbox (13.16994pt too wide) in paragraph at lines 1895--1895
+|[]\OT1/ptm/b/n/17.28 ASSIGNMENT 2: WORK-STA-TION SETUP AND
+ []
+
+
+
+[95]
+
+[96]
+Overfull \hbox (5.46417pt too wide) in paragraph at lines 1929--1929
+|[]\OT1/ptm/b/n/17.28 ASSIGNMENT 3: PROJECT PRO-GRAM-MING
+ []
+
+
+Overfull \hbox (15.27892pt too wide) in paragraph at lines 1944--1945
+[]\OT1/ptm/m/n/10.95 Languages: So-lid-ity (smart con-tracts), Type-Script (Re-act fron-tend), C++ (IoT firmware) 
+ []
+
+
+
+[97]
+Overfull \hbox (10.9922pt too wide) in paragraph at lines 1958--1958
+|[]\OT1/ptm/b/n/17.28 ASSIGNMENT 4: TEST-ING AND VAL-I-DA-TION| 
+ []
+
+
+Underfull \hbox (badness 1845) in paragraph at lines 1968--1968
+[]|\OT1/ptm/m/n/10.95 Smart Con-tract De-ploy-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1970--1970
+[]|\OT1/ptm/m/n/10.95 NFT Minted with
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 1972--1972
+[]|\OT1/ptm/m/n/10.95 Real-time Data Pro-cess-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1972--1972
+[]|\OT1/ptm/m/n/10.95 Data Val-i-dated and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1974--1974
+[]|\OT1/ptm/m/n/10.95 Messages Pub-
+ []
+
+
+Underfull \hbox (badness 5431) in paragraph at lines 1988--1988
+[]|\OT1/ptm/m/n/10.95 Real-time Dash-board
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1990--1990
+[]|\OT1/ptm/m/n/10.95 Transaction Com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1992--1992
+[]|\OT1/ptm/m/n/10.95 Carbon Cred-its Re-
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 2004--2004
+[]|\OT1/ptm/m/n/10.95 Sonoff Pow 320D Con-
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 2004--2004
+[]|\OT1/ptm/m/n/10.95 Device Con-nected to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2006--2006
+[]|\TS1/ptm/m/n/10.95 ±\OT1/ptm/m/n/10.95 0.1% Mea-sure-ment
+ []
+
+
+Underfull \hbox (badness 5667) in paragraph at lines 2008--2008
+[]|\OT1/ptm/m/n/10.95 MQTT Data Trans-mis-
+ []
+
+
+Underfull \hbox (badness 2435) in paragraph at lines 2008--2008
+[]|\OT1/ptm/m/n/10.95 Data Sent Ev-ery 30
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 2010--2010
+[]|\OT1/ptm/m/n/10.95 Automatic Re-con-nec-
+ []
+
+[98]
+Underfull \hbox (badness 2600) in paragraph at lines 2028--2028
+[]|\OT1/ptm/m/n/10.95 HTS To-ken Trans-fer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2030--2030
+[]|\OT1/ptm/m/n/10.95 Multiple Con-cur-rent
+ []
+
+
+
+[99]
+Annexure G.
+
+
+[100
+
+]
+<swapnil-pfp.jpeg, id=752, 2591.6825pt x 2591.6825pt>
+File: swapnil-pfp.jpeg Graphic file (type jpg)
+<use swapnil-pfp.jpeg>
+Package pdftex.def Info: swapnil-pfp.jpeg  used on input line 2042.
+(pdftex.def)             Requested size: 60.0pt x 59.99103pt.
+
+
+[101 <./swapnil-pfp.jpeg>]
+<shruti-dp.jpeg, id=766, 314.17375pt x 432.61626pt>
+File: shruti-dp.jpeg Graphic file (type jpg)
+<use shruti-dp.jpeg>
+Package pdftex.def Info: shruti-dp.jpeg  used on input line 2055.
+(pdftex.def)             Requested size: 60.0pt x 82.61382pt.
+
+
+[102 <./shruti-dp.jpeg>]
+<ankit-dp.jpeg, id=779, 4172.58875pt x 4175.6pt>
+File: ankit-dp.jpeg Graphic file (type jpg)
+<use ankit-dp.jpeg>
+Package pdftex.def Info: ankit-dp.jpeg  used on input line 2068.
+(pdftex.def)             Requested size: 60.0pt x 60.019pt.
+
+
+[103 <./ankit-dp.jpeg>]
+<rutuj-dp.jpeg, id=793, 962.59625pt x 1130.2225pt>
+File: rutuj-dp.jpeg Graphic file (type jpg)
+<use rutuj-dp.jpeg>
+Package pdftex.def Info: rutuj-dp.jpeg  used on input line 2081.
+(pdftex.def)             Requested size: 60.0pt x 70.43178pt.
+
+
+[104 <./rutuj-dp.jpeg>]
+Chapter 14.
+
+
+[105
+
+]
+<paper-sem1-1.png, id=813, 587.19376pt x 735.74875pt>
 File: paper-sem1-1.png Graphic file (type png)
 <use paper-sem1-1.png>
-Package pdftex.def Info: paper-sem1-1.png  used on input line 2127.
-(pdftex.def)             Requested size: 452.9679pt x 567.56113pt.
+Package pdftex.def Info: paper-sem1-1.png  used on input line 2103.
+(pdftex.def)             Requested size: 395.15057pt x 495.11583pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2103--2104
+ [][] 
+ []
+
+<paper-sem1-2.png, id=814, 587.19376pt x 735.74875pt>
+File: paper-sem1-2.png Graphic file (type png)
+<use paper-sem1-2.png>
+Package pdftex.def Info: paper-sem1-2.png  used on input line 2109.
+(pdftex.def)             Requested size: 395.15057pt x 495.11583pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2109--2110
+ [][] 
+ []
+
+<paper-sem1-3.png, id=815, 587.19376pt x 735.74875pt>
+File: paper-sem1-3.png Graphic file (type png)
+<use paper-sem1-3.png>
+Package pdftex.def Info: paper-sem1-3.png  used on input line 2115.
+(pdftex.def)             Requested size: 395.15057pt x 495.11583pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2115--2116
+ [][] 
+ []
+
+<paper-sem1-4.png, id=816, 587.19376pt x 735.74875pt>
+File: paper-sem1-4.png Graphic file (type png)
+<use paper-sem1-4.png>
+Package pdftex.def Info: paper-sem1-4.png  used on input line 2121.
+(pdftex.def)             Requested size: 395.15057pt x 495.11583pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2121--2122
+ [][] 
+ []
+
+<paper-sem1-5.png, id=817, 587.19376pt x 735.74875pt>
+File: paper-sem1-5.png Graphic file (type png)
+<use paper-sem1-5.png>
+Package pdftex.def Info: paper-sem1-5.png  used on input line 2127.
+(pdftex.def)             Requested size: 395.15057pt x 495.11583pt.
 
 Overfull \hbox (6.79999pt too wide) in paragraph at lines 2127--2128
  [][] 
  []
 
-<paper-sem1-2.png, id=738, 587.19376pt x 735.74875pt>
-File: paper-sem1-2.png Graphic file (type png)
-<use paper-sem1-2.png>
-Package pdftex.def Info: paper-sem1-2.png  used on input line 2133.
-(pdftex.def)             Requested size: 452.9679pt x 567.56113pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 2133--2134
- [][] 
- []
-
-<paper-sem1-3.png, id=739, 587.19376pt x 735.74875pt>
-File: paper-sem1-3.png Graphic file (type png)
-<use paper-sem1-3.png>
-Package pdftex.def Info: paper-sem1-3.png  used on input line 2139.
-(pdftex.def)             Requested size: 452.9679pt x 567.56113pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 2139--2140
- [][] 
- []
-
-<paper-sem1-4.png, id=740, 587.19376pt x 735.74875pt>
-File: paper-sem1-4.png Graphic file (type png)
-<use paper-sem1-4.png>
-Package pdftex.def Info: paper-sem1-4.png  used on input line 2145.
-(pdftex.def)             Requested size: 452.9679pt x 567.56113pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 2145--2146
- [][] 
- []
-
-<paper-sem1-5.png, id=741, 587.19376pt x 735.74875pt>
-File: paper-sem1-5.png Graphic file (type png)
-<use paper-sem1-5.png>
-Package pdftex.def Info: paper-sem1-5.png  used on input line 2151.
-(pdftex.def)             Requested size: 452.9679pt x 567.56113pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 2151--2152
- [][] 
- []
 
 
+[106 <./paper-sem1-1.png>]
 
-[87 <./paper-sem1-1.png>]
+[107 <./paper-sem1-2.png>]
 
-[88 <./paper-sem1-2.png>]
+[108 <./paper-sem1-3.png>]
 
-[89 <./paper-sem1-3.png>]
+[109 <./paper-sem1-4.png>]
 
-[90 <./paper-sem1-4.png>]
-
-[91 <./paper-sem1-5.png>]
+[110 <./paper-sem1-5.png>]
 Chapter 15.
-<COP-sem1-1.png, id=773, 986.68625pt x 760.8425pt>
+
+
+[111
+
+]
+<COP-sem1-1.png, id=854, 1973.3725pt x 1521.685pt>
 File: COP-sem1-1.png Graphic file (type png)
 <use COP-sem1-1.png>
-Package pdftex.def Info: COP-sem1-1.png  used on input line 2160.
-(pdftex.def)             Requested size: 452.9679pt x 349.29523pt.
+Package pdftex.def Info: COP-sem1-1.png  used on input line 2136.
+(pdftex.def)             Requested size: 395.15057pt x 304.70311pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 2160--2161
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2136--2137
  [][] 
  []
 
-<COP-sem1-2.png, id=774, 986.68625pt x 760.8425pt>
+<COP-sem1-2.png, id=855, 1973.3725pt x 1521.685pt>
 File: COP-sem1-2.png Graphic file (type png)
 <use COP-sem1-2.png>
-Package pdftex.def Info: COP-sem1-2.png  used on input line 2166.
-(pdftex.def)             Requested size: 452.9679pt x 349.29523pt.
+Package pdftex.def Info: COP-sem1-2.png  used on input line 2142.
+(pdftex.def)             Requested size: 395.15057pt x 304.70311pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 2166--2167
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2142--2143
  [][] 
  []
 
-<COP-sem1-3.png, id=775, 986.68625pt x 760.8425pt>
+<COP-sem1-3.png, id=856, 1973.3725pt x 1521.685pt>
 File: COP-sem1-3.png Graphic file (type png)
 <use COP-sem1-3.png>
-Package pdftex.def Info: COP-sem1-3.png  used on input line 2172.
-(pdftex.def)             Requested size: 452.9679pt x 349.29523pt.
+Package pdftex.def Info: COP-sem1-3.png  used on input line 2148.
+(pdftex.def)             Requested size: 395.15057pt x 304.70311pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 2172--2173
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2148--2149
  [][] 
  []
 
-<COP-sem1-4.png, id=776, 986.68625pt x 760.8425pt>
+
+
+[112 <./COP-sem1-1.png> <./COP-sem1-2.png>]
+<COP-sem1-4.png, id=865, 1973.3725pt x 1521.685pt>
 File: COP-sem1-4.png Graphic file (type png)
 <use COP-sem1-4.png>
-Package pdftex.def Info: COP-sem1-4.png  used on input line 2178.
-(pdftex.def)             Requested size: 452.9679pt x 349.29523pt.
+Package pdftex.def Info: COP-sem1-4.png  used on input line 2154.
+(pdftex.def)             Requested size: 395.15057pt x 304.70311pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 2178--2179
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2154--2155
  [][] 
  []
 
 
 
-[92
+[113 <./COP-sem1-3.png> <./COP-sem1-4.png>]
 
- <./COP-sem1-1.png>]
-
-[93 <./COP-sem1-2.png>]
-
-[94 <./COP-sem1-3.png>]
-
-[95 <./COP-sem1-4.png>]
+[114]
 Chapter 16.
 
 
-[96
+[115
 
 ]
-<paper-sem2-1.png, id=809, 541.02126pt x 760.8425pt>
+<paper-sem2-1.png, id=884, 541.02126pt x 760.8425pt>
 File: paper-sem2-1.png Graphic file (type png)
 <use paper-sem2-1.png>
-Package pdftex.def Info: paper-sem2-1.png  used on input line 2188.
-(pdftex.def)             Requested size: 452.9679pt x 637.02524pt.
+Package pdftex.def Info: paper-sem2-1.png  used on input line 2164.
+(pdftex.def)             Requested size: 395.15057pt x 555.72386pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2164--2165
+ [][] 
+ []
+
+<paper-sem2-2.png, id=885, 541.02126pt x 760.8425pt>
+File: paper-sem2-2.png Graphic file (type png)
+<use paper-sem2-2.png>
+Package pdftex.def Info: paper-sem2-2.png  used on input line 2170.
+(pdftex.def)             Requested size: 395.15057pt x 555.72386pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2170--2171
+ [][] 
+ []
+
+<paper-sem2-3.png, id=886, 541.02126pt x 760.8425pt>
+File: paper-sem2-3.png Graphic file (type png)
+<use paper-sem2-3.png>
+Package pdftex.def Info: paper-sem2-3.png  used on input line 2176.
+(pdftex.def)             Requested size: 395.15057pt x 555.72386pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2176--2177
+ [][] 
+ []
+
+<paper-sem2-4.png, id=887, 541.02126pt x 760.8425pt>
+File: paper-sem2-4.png Graphic file (type png)
+<use paper-sem2-4.png>
+Package pdftex.def Info: paper-sem2-4.png  used on input line 2182.
+(pdftex.def)             Requested size: 395.15057pt x 555.72386pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2182--2183
+ [][] 
+ []
+
+File: paper-sem1-5.png Graphic file (type png)
+<use paper-sem1-5.png>
+Package pdftex.def Info: paper-sem1-5.png  used on input line 2188.
+(pdftex.def)             Requested size: 395.15057pt x 495.11583pt.
 
 Overfull \hbox (6.79999pt too wide) in paragraph at lines 2188--2189
  [][] 
  []
 
-<paper-sem2-2.png, id=810, 541.02126pt x 760.8425pt>
-File: paper-sem2-2.png Graphic file (type png)
-<use paper-sem2-2.png>
-Package pdftex.def Info: paper-sem2-2.png  used on input line 2194.
-(pdftex.def)             Requested size: 452.9679pt x 637.02524pt.
+<paper-sem2-6.png, id=888, 541.02126pt x 760.8425pt>
+File: paper-sem2-6.png Graphic file (type png)
+<use paper-sem2-6.png>
+Package pdftex.def Info: paper-sem2-6.png  used on input line 2194.
+(pdftex.def)             Requested size: 395.15057pt x 555.72386pt.
 
 Overfull \hbox (6.79999pt too wide) in paragraph at lines 2194--2195
  [][] 
  []
 
-<paper-sem2-3.png, id=811, 541.02126pt x 760.8425pt>
-File: paper-sem2-3.png Graphic file (type png)
-<use paper-sem2-3.png>
-Package pdftex.def Info: paper-sem2-3.png  used on input line 2200.
-(pdftex.def)             Requested size: 452.9679pt x 637.02524pt.
+
+
+[116 <./paper-sem2-1.png>]
+
+[117 <./paper-sem2-2.png>]
+
+[118 <./paper-sem2-3.png>]
+
+[119 <./paper-sem2-4.png>]
+
+[120]
+
+[121 <./paper-sem2-6.png>]
+<paper-sem2-7.png, id=925, 541.02126pt x 760.8425pt>
+File: paper-sem2-7.png Graphic file (type png)
+<use paper-sem2-7.png>
+Package pdftex.def Info: paper-sem2-7.png  used on input line 2200.
+(pdftex.def)             Requested size: 395.15057pt x 555.72386pt.
 
 Overfull \hbox (6.79999pt too wide) in paragraph at lines 2200--2201
  [][] 
@@ -3518,136 +3363,78 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 2200--2201
 
 
 
-[97 <./paper-sem2-1.png>]
-
-[98 <./paper-sem2-2.png>]
-
-[99 <./paper-sem2-3.png>]
-<paper-sem2-4.png, id=830, 541.02126pt x 760.8425pt>
-File: paper-sem2-4.png Graphic file (type png)
-<use paper-sem2-4.png>
-Package pdftex.def Info: paper-sem2-4.png  used on input line 2206.
-(pdftex.def)             Requested size: 452.9679pt x 637.02524pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 2206--2207
- [][] 
- []
-
-File: paper-sem1-5.png Graphic file (type png)
-<use paper-sem1-5.png>
-Package pdftex.def Info: paper-sem1-5.png  used on input line 2212.
-(pdftex.def)             Requested size: 452.9679pt x 567.56113pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 2212--2213
- [][] 
- []
-
-
-
-[100 <./paper-sem2-4.png>]
-
-[101]
-<paper-sem2-6.png, id=843, 541.02126pt x 760.8425pt>
-File: paper-sem2-6.png Graphic file (type png)
-<use paper-sem2-6.png>
-Package pdftex.def Info: paper-sem2-6.png  used on input line 2218.
-(pdftex.def)             Requested size: 452.9679pt x 637.02524pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 2218--2219
- [][] 
- []
-
-<paper-sem2-7.png, id=844, 541.02126pt x 760.8425pt>
-File: paper-sem2-7.png Graphic file (type png)
-<use paper-sem2-7.png>
-Package pdftex.def Info: paper-sem2-7.png  used on input line 2224.
-(pdftex.def)             Requested size: 452.9679pt x 637.02524pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 2224--2225
- [][] 
- []
-
-
-
-[102 <./paper-sem2-6.png>]
-
-[103 <./paper-sem2-7.png>]
-
-[104]
+[122 <./paper-sem2-7.png>]
 Chapter 17.
-<COP-sem2-1.png, id=861, 553.06625pt x 740.7675pt>
+
+
+[123
+
+]
+<COP-sem2-1.png, id=937, 1106.1325pt x 1481.535pt>
 File: COP-sem2-1.png Graphic file (type png)
 <use COP-sem2-1.png>
-Package pdftex.def Info: COP-sem2-1.png  used on input line 2233.
-(pdftex.def)             Requested size: 452.9679pt x 606.69858pt.
+Package pdftex.def Info: COP-sem2-1.png  used on input line 2209.
+(pdftex.def)             Requested size: 395.15057pt x 529.23784pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2209--2210
+ [][] 
+ []
+
+<COP-sem2-2.png, id=938, 1106.1325pt x 1481.535pt>
+File: COP-sem2-2.png Graphic file (type png)
+<use COP-sem2-2.png>
+Package pdftex.def Info: COP-sem2-2.png  used on input line 2215.
+(pdftex.def)             Requested size: 395.15057pt x 529.23784pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2215--2216
+ [][] 
+ []
+
+<COP-sem2-3.png, id=939, 1106.1325pt x 1481.535pt>
+File: COP-sem2-3.png Graphic file (type png)
+<use COP-sem2-3.png>
+Package pdftex.def Info: COP-sem2-3.png  used on input line 2221.
+(pdftex.def)             Requested size: 395.15057pt x 529.23784pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2221--2222
+ [][] 
+ []
+
+<COP-sem2-4.png, id=940, 1106.1325pt x 1481.535pt>
+File: COP-sem2-4.png Graphic file (type png)
+<use COP-sem2-4.png>
+Package pdftex.def Info: COP-sem2-4.png  used on input line 2227.
+(pdftex.def)             Requested size: 395.15057pt x 529.23784pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2227--2228
+ [][] 
+ []
+
+<COP-sem2-5.png, id=941, 1106.1325pt x 1481.535pt>
+File: COP-sem2-5.png Graphic file (type png)
+<use COP-sem2-5.png>
+Package pdftex.def Info: COP-sem2-5.png  used on input line 2233.
+(pdftex.def)             Requested size: 395.15057pt x 529.23784pt.
 
 Overfull \hbox (6.79999pt too wide) in paragraph at lines 2233--2234
  [][] 
  []
 
-<COP-sem2-2.png, id=862, 553.06625pt x 740.7675pt>
-File: COP-sem2-2.png Graphic file (type png)
-<use COP-sem2-2.png>
-Package pdftex.def Info: COP-sem2-2.png  used on input line 2239.
-(pdftex.def)             Requested size: 452.9679pt x 606.69858pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 2239--2240
- [][] 
- []
-
-<COP-sem2-3.png, id=863, 553.06625pt x 740.7675pt>
-File: COP-sem2-3.png Graphic file (type png)
-<use COP-sem2-3.png>
-Package pdftex.def Info: COP-sem2-3.png  used on input line 2245.
-(pdftex.def)             Requested size: 452.9679pt x 606.69858pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 2245--2246
- [][] 
- []
-
-<COP-sem2-4.png, id=864, 553.06625pt x 740.7675pt>
-File: COP-sem2-4.png Graphic file (type png)
-<use COP-sem2-4.png>
-Package pdftex.def Info: COP-sem2-4.png  used on input line 2251.
-(pdftex.def)             Requested size: 452.9679pt x 606.69858pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 2251--2252
- [][] 
- []
-
-<COP-sem2-5.png, id=865, 553.06625pt x 740.7675pt>
-File: COP-sem2-5.png Graphic file (type png)
-<use COP-sem2-5.png>
-Package pdftex.def Info: COP-sem2-5.png  used on input line 2257.
-(pdftex.def)             Requested size: 452.9679pt x 606.69858pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 2257--2258
- [][] 
- []
 
 
+[124 <./COP-sem2-1.png>]
 
-[105
+[125 <./COP-sem2-2.png>]
 
-]
+[126 <./COP-sem2-3.png>]
 
-[106 <./COP-sem2-1.png>]
+[127 <./COP-sem2-4.png>]
 
-[107 <./COP-sem2-2.png>]
-
-[108 <./COP-sem2-3.png>]
-
-[109 <./COP-sem2-4.png>]
-
-[110 <./COP-sem2-5.png>] (./report.aux)
+[128 <./COP-sem2-5.png>] (./report.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 1.28pt have occurred.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
@@ -3660,20 +3447,24 @@ Package rerunfilecheck Warning: File `report.out' has changed.
 Package rerunfilecheck Info: Checksums for `report.out':
 (rerunfilecheck)             Before: <no file>
 (rerunfilecheck)             After:  C134A39F9DED453663DBAFEB0580387E;27949.
- ) 
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 137 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
- 28403 strings out of 473190
- 570268 string characters out of 5704335
- 994248 words of memory out of 5000000
- 50766 multiletter control sequences out of 15000+600000
- 566797 words of font info for 63 fonts, out of 8000000 for 9000
+ 28733 strings out of 473190
+ 576143 string characters out of 5704335
+ 1003958 words of memory out of 5000000
+ 51019 multiletter control sequences out of 15000+600000
+ 609687 words of font info for 131 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,12n,107p,1079b,901s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on report.pdf (118 pages, 26399855 bytes).
+ 102i,12n,107p,1079b,1736s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on report.pdf (136 pages, 8443451 bytes).
 PDF statistics:
- 1047 PDF objects out of 1200 (max. 8388607)
- 815 compressed objects within 9 object streams
- 424 named destinations out of 1000 (max. 500000)
- 223 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1123 PDF objects out of 1200 (max. 8388607)
+ 877 compressed objects within 9 object streams
+ 442 named destinations out of 1000 (max. 500000)
+ 213 words of extra memory for PDF output out of 10000 (max. 10000000)
 

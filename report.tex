@@ -10,6 +10,7 @@
 \usepackage{array}
 \usepackage{geometry}
 \usepackage{tikz}
+\usepackage{mathptmx} 
 \usetikzlibrary{arrows,shapes,snakes,automata,backgrounds,petri}
 \usepackage{tabularx}
 \usepackage[nottoc,notlot,notlof,numbib]{tocbibind}
@@ -22,8 +23,10 @@
 \usepackage[]{hyperref}
 \usepackage{enumitem}
 \usepackage{graphicx}
+\usepackage{setspace}
 
-\geometry{margin=1in}
+
+\geometry{a4paper, margin=1.1in, bindingoffset=0.6in}
 
 % Consistent footer setup
 \fancypagestyle{plain}{%
@@ -33,11 +36,13 @@
 }
 \pagestyle{fancy}
 \fancyhead{}
+
 \renewcommand{\headrulewidth}{0pt}
 \footskip = 0.625in
 \cfoot{}
 \rfoot{}
 
+\setstretch{1.4}
 % Table column type for centering
 \newcolumntype{C}{>{\centering\arraybackslash}X}
 
@@ -47,7 +52,7 @@
 \setcounter{secnumdepth}{5}
 
 % Consistent table formatting
-\renewcommand{\arraystretch}{1.5}
+\renewcommand{\arraystretch}{1.4}
 \setlength{\tabcolsep}{8pt}
 
 \begin{document}
@@ -68,10 +73,10 @@ Engineering) \\}
 
 {\bfseries \fontsize{12}{12} \selectfont BY \\ 
 \vspace*{1\baselineskip}} 
-Swapnil Shinde \hspace{28 mm}   Exam No: B401050256  \\
-Shruti Sharma \hspace{28 mm} Exam No: B401050246 \\
-Ankit Kokane \hspace{28 mm} Exam No: B401050181  \\
-Shivraj Sakunde \hspace{24 mm} Exam No: B401040236  \\
+Swapnil Shinde \hspace{10 mm}   Exam No: B401050256  \\
+Shruti Sharma \hspace{10 mm} Exam No: B401050246 \\
+Ankit Kokane \hspace{10 mm} Exam No: B401050181  \\
+Shivraj Sakunde \hspace{10 mm} Exam No: B401040236  \\
 \vspace*{1.5\baselineskip}
 {\bfseries \fontsize{14}{12} \selectfont Under The Guidance of \\  
 \vspace*{1\baselineskip}} 
@@ -121,10 +126,10 @@ Academic Year: 2024-25
 
 \centerline{Submitted by}
 \vspace*{0.5\baselineskip} 
-\centerline{Swapnil Shinde  \hspace{28 mm} Exam No: B401050256 } 
-\centerline{Shruti Sharma \hspace{21 mm} Exam No: B401050246 }
-\centerline{Ankit Kokane \hspace{24 mm} Exam No: B401050181  } 
-\centerline{Shivraj Sakunde \hspace{24 mm} Exam No: B401040236  } 
+\centerline{Swapnil Shinde  \hspace{10 mm} Exam No: B401050256 } 
+\centerline{Shruti Sharma \hspace{10 mm} Exam No: B401050246 }
+\centerline{Ankit Kokane \hspace{10 mm} Exam No: B401050181  } 
+\centerline{Shivraj Sakunde \hspace{10 mm} Exam No: B401040236  } 
 
 is a bonafide work carried out by Students under the supervision of Dr. S. P. Bendale and it
 is submitted towards the  fulfillment of the requirement of Bachelor of Engineering (Computer Engineering).\\
@@ -206,11 +211,8 @@ Dept. of Computer Engg.  &	\hspace{50 mm}Dept. of Computer Engg.  \\
 {  \newpage {\bfseries \fontsize{14}{12} \selectfont \centerline{Abstract} 
 \vspace*{2\baselineskip}} \setlength{\parindent}{11mm} }
 { \setlength{\parindent}{0mm} }
-As climate change continues to pose a critical global threat, existing carbon offsetting systems face mounting scrutiny due to issues of limited transparency, high operational costs, and poor scalability. These conventional mechanisms often depend on centralized intermediaries, creating bottlenecks in verification, validation, and trading of carbon credits. This study responds to these challenges by introducing a decentralized framework that leverages blockchain technology and the Internet of Things (IoT) to modernize and streamline carbon offsetting processes. The aim is to establish a more secure, transparent, and efficient carbon management ecosystem.
-
-In this proposed framework, IoT-enabled sensors are deployed to capture real-time data on carbon dioxide (CO₂) emissions from various sources, such as industrial facilities and logistics operations. This data is immediately recorded on a blockchain ledger, ensuring immutability and verifiability. Through the use of smart contracts, the system enables peer-to-peer transactions in a decentralized carbon credit marketplace. This reduces dependency on third-party verifiers and brokers, significantly lowering transaction costs and delays. By automating credit issuance and exchange, the system enhances accountability and encourages wider participation in carbon trading.
-
-A case study conducted within the production and logistics sectors showcases the practical viability and broad applicability of the proposed model. The results indicate the framework's potential to foster global stakeholder engagement, support compliance with sustainability goals, and democratize access to carbon offset opportunities. The study concludes by identifying regulatory barriers and technical limitations that must be addressed for widespread adoption. It also outlines future research avenues aimed at scaling the framework across diverse industries and integrating it with global environmental policy initiatives.
+As climate trade intensifies the constraints of conventional carbon offsetting systems including restricted transparency high prices and scalability issues have become increasingly more apparent this studies introduces a decentralised framework the use of blockchain and iot to allow a transparent comfy and scalable technique to carbon offsetting and buying and selling iot sensors capture actual-time statistics on co emissions thats then recorded on a blockchain for tamper-proof monitoring and verification by leveraging clever contracts the framework enables a peer-to-peer marketplace for carbon credit lowering dependency on intermediaries and improving transaction performance a case examine within the production and logistics sectors demonstrates the frameworks ability for wide application suggesting it may support stakeholder engagement and foster worldwide sustainable practices the take a look at concludes with a discussion on regulatory challenges and destiny studies pathways to extend the
+frameworks impact across industries.
 
 {  \newpage {\bfseries \fontsize{14}{12} \selectfont \centerline{Acknowledgements} 
 \vspace*{2\baselineskip}} \setlength{\parindent}{11mm} }
@@ -218,7 +220,7 @@ A case study conducted within the production and logistics sectors showcases the
 
 \textit{It gives us great pleasure in presenting the preliminary project report 
 on {\bfseries \fontsize{12}{12} \selectfont `Trust Based Carbon Offsetting using IOT and Blockchain for a Decentralized Carbon Economy'}.}
-\vspace*{1.5\baselineskip}
+\vspace*{1.1\baselineskip}
 
  \textit{I would like to take this opportunity to thank my internal guide
  \textbf{Dr. S. P. Bendale} for giving me all the help and guidance I needed. I am
@@ -227,10 +229,13 @@ on {\bfseries \fontsize{12}{12} \selectfont `Trust Based Carbon Offsetting using
  \textit{I am also grateful to \textbf{Dr. S. P. Bendale}, Head of Computer
  Engineering Department, NBN Sinhgad Technical Institute Campus for his indispensable
  support, suggestions.}
-\vspace*{1.5\baselineskip}
+\vspace*{1.1\baselineskip}
+
+I would also like to extend my sincere thanks to our project coordinators \textbf{Prof. P. S. Sajjanshetti} and \textbf{Prof. M. B. Yelpale} for their guidance, encouragement, and timely feedback throughout the project.
+\vspace*{1.1\baselineskip}
 
 \textit{We are deeply thankful to our esteemed Principal \textbf{Dr. S. P. Patil}, for his unwavering support, guidance, and for ensuring the availability of all required facilities throughout the course of our project. We also acknowledge the sponsorship and guidance from Rudra Tech Solutions which has been instrumental in the successful completion of this project.}
-\vspace*{3\baselineskip} 
+\vspace*{2.5\baselineskip} 
 
 \begin{flushright}
 Swapnil Shinde\\
@@ -407,8 +412,6 @@ hanisms
 \item Smart contract automation for carbon credits
 \item Decentralized carbon marketplace infrastructure
 \item Real-time environmental data verification systems
-\end{enumerate}
-\end{enumerate}
 
 \chapter{Introduction}
 
@@ -517,30 +520,32 @@ Contemporary carbon offsetting frameworks exhibit significant operational limita
 \end{itemize}
 
 \section{Hardware Resources Required}
-
 \begin{table}[!htbp]
 \begin{center}
+\resizebox{\textwidth}{!}{%
 \def\arraystretch{1.5}
-  \begin{tabular}{| c | c | c | c|}
+\begin{tabular}{| c | c | c | p{6cm} |}
 \hline
-Sr. No. &	Parameter &	Minimum Requirement & Justification \\
+Sr. No. & Parameter & Minimum Requirement & Justification \\
 \hline
-1 &	CPU Speed &	 2.4 GHz Quad-Core  &Real-time IoT data processing and blockchain transactions.\\
+1 & CPU Speed & 2.4 GHz Quad-Core & Real-time IoT data processing and blockchain transactions. \\
 \hline
-2 &	RAM  &	16 GB &  Supports blockchain node operation and concurrent IoT connections.\\
+2 & RAM & 16 GB & Supports blockchain node operation and concurrent IoT connections. \\
 \hline
-3 &	Storage  &	500 GB SSD &  Fast data access for blockchain synchronization and IoT data storage.\\
+3 & Storage & 500 GB SSD & Fast data access for blockchain synchronization and IoT data storage. \\
 \hline
-4 &	Network  &	1 Gbps Ethernet &  High-speed connectivity for blockchain and IoT communication.\\
+4 & Network & 1 Gbps Ethernet & High-speed connectivity for blockchain and IoT communication. \\
 \hline
-5 &	IoT Devices  &	Elite Smart Meters, Sonoff Pow 320D &  Real-time energy and emissions monitoring.\\
+5 & IoT Devices & Elite Smart Meters, Sonoff Pow 320D & Real-time energy and emissions monitoring. \\
 \hline
 \end{tabular}
- \caption { Hardware Requirements }
- \label{tab:hreq}
+}
+\caption{Hardware Requirements}
+\label{tab:hreq}
 \end{center}
 \end{table}
 
+\newpage
 \section{Software Resources Required}
 Platform Requirements:
 \begin{enumerate}
@@ -1136,8 +1141,8 @@ Integration testing ensures seamless operation between IoT sensors, blockchain i
 
 
 \section{IoT Integration Testing Results}
-
-\begin{longtable}{|p{1.5cm}|p{3.5cm}|p{2.8cm}|p{2.5cm}|p{1.8cm}|p{2.3cm}|}
+\small % reduce font size to fit better
+\begin{longtable}{|p{1.2cm}|p{3cm}|p{2.3cm}|p{2.3cm}|p{1.5cm}|p{2cm}|}
 \hline
 \textbf{Test ID} & \textbf{Test Case Description} & \textbf{Expected Result} & \textbf{Actual Result} & \textbf{Status} & \textbf{Remarks} \\
 \hline
@@ -1150,37 +1155,26 @@ Integration testing ensures seamless operation between IoT sensors, blockchain i
 
 IOT-001 & Sensor data collection from temperature sensors & Data collected every 30 seconds & Data collected every 30 seconds & Pass & Working as expected \\
 \hline
-
 IOT-002 & MQTT broker connectivity test & Successful connection establishment & Connection established & Pass & Stable connection \\
 \hline
-
 IOT-003 & Data transmission to blockchain network & Data transmitted within 5 seconds & Data transmitted in 3.2 seconds & Pass & Performance exceeded \\
 \hline
-
 IOT-004 & Device authentication validation & Only authorized devices connect & Authentication successful & Pass & Security verified \\
 \hline
-
 IOT-005 & Network failover mechanism & Switch to backup network & Failover completed in 2 seconds & Pass & Redundancy working \\
 \hline
-
 IOT-006 & Sensor calibration accuracy & ±0.1°C accuracy maintained & ±0.08°C accuracy achieved & Pass & High precision \\
 \hline
-
 IOT-007 & Data encryption during transmission & AES-256 encryption applied & Encryption verified & Pass & Security compliant \\
 \hline
-
 IOT-008 & Bulk data processing capability & Process 1000 records/minute & Processed 1200 records/minute & Pass & Above specification \\
 \hline
-
 IOT-009 & Real-time monitoring dashboard & Data updates every 10 seconds & Updates every 8 seconds & Pass & Better than expected \\
 \hline
-
 IOT-010 & Emergency alert system & Alerts triggered for threshold breach & Alert sent in 0.5 seconds & Pass & Rapid response \\
 \hline
-
 IOT-011 & Power consumption optimization & <5W average consumption & 4.2W average consumption & Pass & Energy efficient \\
 \hline
-
 IOT-012 & Multi-protocol support (HTTP/CoAP) & Both protocols supported & Both working correctly & Pass & Protocol flexibility \\
 \hline
 
@@ -1188,11 +1182,8 @@ IOT-012 & Multi-protocol support (HTTP/CoAP) & Both protocols supported & Both w
 
 
 
-
-
 \section{Blockchain Performance Test Cases - Hedera Hashgraph}
-
-\begin{longtable}{|p{1.5cm}|p{3.5cm}|p{2.8cm}|p{2.5cm}|p{1.8cm}|p{2.3cm}|}
+\begin{longtable}{|p{1.2cm}|p{3cm}|p{2.3cm}|p{2.3cm}|p{1.5cm}|p{2cm}|}
 \hline
 \textbf{Test ID} & \textbf{Test Case Description} & \textbf{Expected Result} & \textbf{Actual Result} & \textbf{Status} & \textbf{Remarks} \\
 \hline
@@ -1247,11 +1238,10 @@ HBC-014 & Cross-shard communication & <1 second shard sync & 0.8 seconds sync ti
 
 \end{longtable}
 
-
-
 \section{Smart Contract Security Test Cases - ERC-721 Carbon Token}
+\small % reduce font size to fit better
 
-\begin{longtable}{|p{1.5cm}|p{3.5cm}|p{2.8cm}|p{2.5cm}|p{1.8cm}|p{2.3cm}|}
+\begin{longtable}{|p{1.2cm}|p{3cm}|p{2.3cm}|p{2.3cm}|p{1.5cm}|p{2cm}|}
 \hline
 \textbf{Test ID} & \textbf{Test Case Description} & \textbf{Expected Result} & \textbf{Actual Result} & \textbf{Status} & \textbf{Remarks} \\
 \hline
@@ -1264,53 +1254,39 @@ HBC-014 & Cross-shard communication & <1 second shard sync & 0.8 seconds sync ti
 
 SEC-001 & Ownership verification test & Only owner can transfer tokens & Transfer restricted properly & Pass & Access control working \\
 \hline
-
 SEC-002 & Reentrancy attack prevention & External calls protected & No reentrancy possible & Pass & Security measures active \\
 \hline
-
 SEC-003 & Integer overflow/underflow test & SafeMath implementation & No overflow detected & Pass & Arithmetic operations safe \\
 \hline
-
 SEC-004 & Unauthorized minting prevention & Only authorized addresses mint & Minting restricted & Pass & Mint control enforced \\
 \hline
-
 SEC-005 & Token approval security & Approval limits enforced & Approvals working correctly & Pass & Safe approval mechanism \\
 \hline
-
 SEC-006 & Contract upgrade security & Upgrades require multi-sig & Multi-sig validation passed & Pass & Secure upgrade path \\
 \hline
-
 SEC-007 & Gas limit attack prevention & Functions have gas limits & Gas limits enforced & Pass & DoS attack prevented \\
 \hline
-
 SEC-008 & Metadata immutability test & Token metadata unchangeable & Metadata locked & Pass & Data integrity maintained \\
 \hline
-
 SEC-009 & Burn function security & Only token owner can burn & Burn restricted to owner & Pass & Secure token burning \\
 \hline
-
 SEC-010 & Batch operation security & Batch limits enforced & Limits working correctly & Pass & Batch operations secure \\
 \hline
-
 SEC-011 & Front-running protection & MEV protection implemented & No front-running possible & Pass & Transaction ordering secure \\
 \hline
-
 SEC-012 & Carbon credit validation & Only verified credits tokenized & Validation successful & Pass & Credit authenticity ensured \\
 \hline
-
 SEC-013 & Double spending prevention & Unique token IDs enforced & No duplicate tokens & Pass & Token uniqueness verified \\
 \hline
-
 SEC-014 & Emergency pause functionality & Contract can be paused & Pause mechanism working & Pass & Emergency controls active \\
 \hline
-
 SEC-015 & Time-based restrictions & Transfer cooldowns enforced & Cooldowns working & Pass & Temporal controls active \\
 \hline
-
 SEC-016 & External dependency security & Oracle data validation & Data validated correctly & Pass & External data secure \\
 \hline
 
 \end{longtable}
+
 
 \chapter{Results}
 \newpage
